@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": 182,
+  "pages": 6,
+  "numerical_table_values": 70,
+  "manuscript_sha256": "9649e6f78f4eb45a1f853264cbd9cfd726af7f51d9357f5b6b13002bb0777e92",
+  "pdf_action_scope": "No forms, scripts, page/document AA; internal Fit opening and URI references bounded",
+  "limits": "Finite numeric/text/hash checks; visual page inspection recorded in review receipt"
+}

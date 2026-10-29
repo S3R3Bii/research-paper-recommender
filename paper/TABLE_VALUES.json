@@ -1,0 +1,282 @@
+{
+  "coverage-0-total": {
+    "value": 41,
+    "text": "41"
+  },
+  "coverage-0-eligible": {
+    "value": 5,
+    "text": "5"
+  },
+  "coverage-1-total": {
+    "value": 56,
+    "text": "56"
+  },
+  "coverage-1-eligible": {
+    "value": 9,
+    "text": "9"
+  },
+  "coverage-2-total": {
+    "value": 78,
+    "text": "78"
+  },
+  "coverage-2-eligible": {
+    "value": 12,
+    "text": "12"
+  },
+  "coverage-3-total": {
+    "value": 88,
+    "text": "88"
+  },
+  "coverage-3-eligible": {
+    "value": 31,
+    "text": "31"
+  },
+  "coverage-4-total": {
+    "value": 76,
+    "text": "76"
+  },
+  "coverage-4-eligible": {
+    "value": 18,
+    "text": "18"
+  },
+  "coverage-5-total": {
+    "value": 62,
+    "text": "62"
+  },
+  "coverage-5-eligible": {
+    "value": 3,
+    "text": "3"
+  },
+  "coverage-6-total": {
+    "value": 65,
+    "text": "65"
+  },
+  "coverage-6-eligible": {
+    "value": 6,
+    "text": "6"
+  },
+  "coverage-7-total": {
+    "value": 70,
+    "text": "70"
+  },
+  "coverage-7-eligible": {
+    "value": 2,
+    "text": "2"
+  },
+  "dev-0-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-0-hits": {
+    "value": 28,
+    "text": "28"
+  },
+  "dev-0-utility": {
+    "value": 0.36403508771929827,
+    "text": "0.364035"
+  },
+  "dev-1-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-1-hits": {
+    "value": 28,
+    "text": "28"
+  },
+  "dev-1-utility": {
+    "value": 0.36403508771929827,
+    "text": "0.364035"
+  },
+  "dev-2-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-2-hits": {
+    "value": 28,
+    "text": "28"
+  },
+  "dev-2-utility": {
+    "value": 0.36403508771929827,
+    "text": "0.364035"
+  },
+  "dev-3-answered": {
+    "value": 56,
+    "text": "56"
+  },
+  "dev-3-hits": {
+    "value": 28,
+    "text": "28"
+  },
+  "dev-3-utility": {
+    "value": 0.3684210526315789,
+    "text": "0.368421"
+  },
+  "dev-4-answered": {
+    "value": 46,
+    "text": "46"
+  },
+  "dev-4-hits": {
+    "value": 25,
+    "text": "25"
+  },
+  "dev-4-utility": {
+    "value": 0.34649122807017546,
+    "text": "0.346491"
+  },
+  "dev-5-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-5-hits": {
+    "value": 26,
+    "text": "26"
+  },
+  "dev-5-utility": {
+    "value": 0.3201754385964912,
+    "text": "0.320175"
+  },
+  "dev-6-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-6-hits": {
+    "value": 26,
+    "text": "26"
+  },
+  "dev-6-utility": {
+    "value": 0.3201754385964912,
+    "text": "0.320175"
+  },
+  "dev-7-answered": {
+    "value": 57,
+    "text": "57"
+  },
+  "dev-7-hits": {
+    "value": 26,
+    "text": "26"
+  },
+  "dev-7-utility": {
+    "value": 0.3201754385964912,
+    "text": "0.320175"
+  },
+  "dev-8-answered": {
+    "value": 56,
+    "text": "56"
+  },
+  "dev-8-hits": {
+    "value": 26,
+    "text": "26"
+  },
+  "dev-8-utility": {
+    "value": 0.32456140350877194,
+    "text": "0.324561"
+  },
+  "dev-9-answered": {
+    "value": 52,
+    "text": "52"
+  },
+  "dev-9-hits": {
+    "value": 25,
+    "text": "25"
+  },
+  "dev-9-utility": {
+    "value": 0.3201754385964912,
+    "text": "0.320175"
+  },
+  "held-0-answered": {
+    "value": 29,
+    "text": "29"
+  },
+  "held-1-answered": {
+    "value": 29,
+    "text": "29"
+  },
+  "held-0-hits": {
+    "value": 12,
+    "text": "12"
+  },
+  "held-1-hits": {
+    "value": 12,
+    "text": "12"
+  },
+  "held-0-hit5_all": {
+    "value": 0.41379310344827586,
+    "text": "0.413793"
+  },
+  "held-1-hit5_all": {
+    "value": 0.41379310344827586,
+    "text": "0.413793"
+  },
+  "held-0-recall5": {
+    "value": 0.39655172413793105,
+    "text": "0.396552"
+  },
+  "held-1-recall5": {
+    "value": 0.39655172413793105,
+    "text": "0.396552"
+  },
+  "held-0-mrr5": {
+    "value": 0.3,
+    "text": "0.300000"
+  },
+  "held-1-mrr5": {
+    "value": 0.3,
+    "text": "0.300000"
+  },
+  "held-0-utility": {
+    "value": 0.2672413793103448,
+    "text": "0.267241"
+  },
+  "held-1-utility": {
+    "value": 0.2672413793103448,
+    "text": "0.267241"
+  },
+  "stratum-0-n": {
+    "value": 18,
+    "text": "18"
+  },
+  "stratum-0-hits": {
+    "value": 6,
+    "text": "6"
+  },
+  "stratum-0-utility": {
+    "value": 0.16666666666666666,
+    "text": "0.166667"
+  },
+  "stratum-1-n": {
+    "value": 3,
+    "text": "3"
+  },
+  "stratum-1-hits": {
+    "value": 2,
+    "text": "2"
+  },
+  "stratum-1-utility": {
+    "value": 0.5833333333333334,
+    "text": "0.583333"
+  },
+  "stratum-2-n": {
+    "value": 6,
+    "text": "6"
+  },
+  "stratum-2-hits": {
+    "value": 4,
+    "text": "4"
+  },
+  "stratum-2-utility": {
+    "value": 0.5833333333333334,
+    "text": "0.583333"
+  },
+  "stratum-3-n": {
+    "value": 2,
+    "text": "2"
+  },
+  "stratum-3-hits": {
+    "value": 0,
+    "text": "0"
+  },
+  "stratum-3-utility": {
+    "value": -0.25,
+    "text": "-0.250000"
+  }
+}

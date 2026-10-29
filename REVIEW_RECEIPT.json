@@ -1,0 +1,169 @@
+{
+  "timestamp_utc": "2026-10-29T23:39:19.090828+00:00",
+  "version": "Current canonical hashes; remote candidate release pending",
+  "file_sha256": {
+    ".gitattributes": "c10a433781311d21f680039ce94e72090621c1bfa73fbbc717b259cabdea3e46",
+    ".gitignore": "873c67f22a35132a7e408134fade79ca785e1ca2582569e9f3f4757b180d1102",
+    "DATA_RIGHTS.md": "cd2a2442f6a8ff72e6ac90d09f51277ba94d8072cca06d3f254b8623b8c2b303",
+    "EXERCISE.md": "a8061c922d1621e1f545be6c15859ac12ba6a7c2e9f4abb9d3a4445eb8fbefa2",
+    "LICENSE": "d7547467e79363a7373ff8a5fe80e616a7032726d92c827865d49b5f38ad5692",
+    "PROTOCOL.md": "d7a287e76803763e6751aacdd9961eaa48318fb23712c614a9299c6fe83e62c4",
+    "README.md": "468c5d2d379df4baebc7280ad3ed2a85b4ae1eecb5b0e821ec25c38208018d46",
+    "requirements.txt": "490c8481c8f9961947c6c10b608f43508eb43d6d2936b5c9ac23680254462151",
+    "SOURCE_CAPTURE.json": "df15a29508954dc764d0f633cac3c1b98c0cef9d0b163f34608252c1f88ee652",
+    ".github/workflows/reproduce.yml": "29f9682535fe48bfb3b6be0891a3cca3ad7c4c86629b263183193008ede59d26",
+    "assets/product-desktop.png": "d781c3cd8d31287308f7447517e2ed3b985a5d11a6f21b70958736ee3cbc563f",
+    "assets/product-phone-results.png": "532b79e5105e6bc1cb9d571e0b0c91a84fafd4d868d28e0056392ac7e7807f79",
+    "assets/product-phone.png": "2d0007325d5e5695b85d15e1487dbee35bfe514f6aa6290af5e4e44e750d2482",
+    "data/catalog.json": "ba3ab05c241bfe6885031f8e65a6b089bbe2fc1e3a9e2b79c770c91208f30af1",
+    "data/citation_labels.json": "603c34a7f82e215656101a73245f6d567e7c98cb923e9357669dac55181b86a8",
+    "data/query_metadata.json": "1e68ffcd6c70f5faa0b5e4dfb1873191392b8cdee040ad2f2b5d7b85dc1e6754",
+    "data/source_duplicates.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "data/source_exclusions.json": "2402c1f588cbf43067b6e313d38c6226ca15130c7c5418446bd36aaa9df6a4d5",
+    "data/source_manifest.json": "ca04afa108912f2e0f82facece52911df6f7805c90d90ad055e01d1addbff084",
+    "data/source_verification.json": "a3332f9c98e7781d4942d2b9eeba89e2df6b818f74267ebf1dc068229717fc44",
+    "exercises/grade.py": "a9460015cf78df932a603f6a7c4d07a4cc1ea110d8f952fdfa03cb7717156da1",
+    "exercises/ranker.py": "01f842ed9dbe28092e869dc8d3d47aa9677cbf288d84adf33e441ad6b598d6cf",
+    "exercises/reference.py": "ee83d5491390200af07eb507823f284f7dfd9fb57e14166107d1566d0126c753",
+    "figures/artist_geometry.json": "2837ce0b5541551338ec8fe65e602f3d6f931ff78e68e1ec449cf9131379fbc3",
+    "figures/corpus_coverage.pdf": "0416e8bb162485bb34c1e36f6e6f8643ef8c8c36b45cee906352e6bd0ce931db",
+    "figures/corpus_coverage.png": "98f28a06abdf74f3a4e119da921465193adaff1d2ef8261f63b0caef972b2ba3",
+    "figures/corpus_coverage.svg": "7051ff6fa3d1eb1b3f109f73c162ff52d9bee4f83a1059b389fa7af0b657b2aa",
+    "figures/development_search.pdf": "c4600f2dd9e8dca81308ebe555f631524972f18284b89b84e3fd26c7914f02d3",
+    "figures/development_search.png": "e745ed9a11fa89678211781f6ca76af6432a8e2e0902fb7b28b05ba106eb9ee5",
+    "figures/development_search.svg": "b925e30958481370842887392c49c37ffe56aa3c79b9b04e7cecf7c688ff7f50",
+    "figures/held_strata.pdf": "c0fe55307a8dd2fbcf6ba3e0a20e22b410de0cc87225981a3f4459677ff2fae6",
+    "figures/held_strata.png": "eda02b1d90e040b076dc1be2486aaa6431de3505b98a0cdce96e856ea7d1e1bd",
+    "figures/held_strata.svg": "e7894552b5d5fd938168502295fa260dc10ae695f65755c4bf2ab79f1c48986a",
+    "figures/manifest.json": "065a6c6d684ade81947bf7b613f39992d9a6987c15defa4d49e9e05fa84a3a0d",
+    "paper/main.tex": "599319bb912b152d915b78e280fc395f04b5d31e27bb17f8d632a7e7c6a7c132",
+    "paper/manuscript.pdf": "9649e6f78f4eb45a1f853264cbd9cfd726af7f51d9357f5b6b13002bb0777e92",
+    "paper/PUBLICATION_SCOPE.json": "ce20a865512fdc1b799e68bd7e41c570938b5c6236c83298612fac3e8d5cdea2",
+    "paper/TABLE_VALUES.json": "350e5d6ab148183d888b4bab3cb0fcdce90fe6bbfc314c9c4597820fd310795f",
+    "paper/images/corpus_coverage.pdf": "0416e8bb162485bb34c1e36f6e6f8643ef8c8c36b45cee906352e6bd0ce931db",
+    "paper/images/development_search.pdf": "c4600f2dd9e8dca81308ebe555f631524972f18284b89b84e3fd26c7914f02d3",
+    "paper/images/held_strata.pdf": "c0fe55307a8dd2fbcf6ba3e0a20e22b410de0cc87225981a3f4459677ff2fae6",
+    "recommender/engine.py": "7a0f746992dced6b03ba90880c5f2529d6ad88c81d629f355a66d84830a261e8",
+    "recommender/server.py": "cc579c5ce5ea80f57e9f7def1db3173a27f4663bb77b00824e59cd1fa372026d",
+    "recommender/__init__.py": "0fa66131111f4ef4ef6f6138120de078dc79ad3e35d71d73caa3ca96f22c00a8",
+    "recommender/__main__.py": "dde6ccbf1f20c06c26a49dc30375b0c78c0a39743d4442c6e453778b8902fc3d",
+    "results/coverage.csv": "09f1975e50f50fd34ba3359718f2e1dfa0a6b8f6d1e8acbdd4fd6bf25d0fb6fd",
+    "results/development_metrics.json": "fc71f44c5e5c2172f9bde598cf3cc25a3cc23ced734ff71336aca8baa94a87b7",
+    "results/development_queries.csv": "17849efe3e0521ad055aefcb8898283c2e75c3d1d77a706d8ba1652803e67f01",
+    "results/development_rankings.csv": "11dd6726b47bc836451efafcef10dd38864850fb98155b52e5321728e034bbd3",
+    "results/figure_verification.json": "77a3f57ebfa1f78f243639417089ed16dbfee5f3a63412ba698209485d188104",
+    "results/frozen_dependencies.json": "573129c842e01125618f5e7fad58a35c496b7d40bde0a95f7a660e280402c540",
+    "results/held_metrics.json": "eb7c4e6d6ec8082b3429d70b7593b237f8bca0cf4b1577793438a3bf1a4d4df4",
+    "results/held_queries.csv": "abaed14afca36becaa93d87cb3547db739a6913a8f05d2356354a6fccf6ddfe2",
+    "results/held_rankings.csv": "3f0fc6a6d3d0ea845d8e4825209e449af6f63d8d9b90304a8bf1fd2fd23f9a38",
+    "results/independent_controls.json": "edda186af3be2563745cd047b37d0d41c6f5cf80e15a9aa2ba902a9aa2600852",
+    "results/independent_development.json": "b5f77bf813cfb1df119fae3d60ab9fb3b77f582c018a9e53e9c080b8dd8ec62e",
+    "results/independent_held.json": "fc2758fcf1a92ec96eec2d8827876338ab1c3645db922b7b6f7b37f75b3680cb",
+    "results/paper_verification.json": "b461159133ac8e57c1ca08b9acded8568fa07b698baa7b2463dfdd484312335b",
+    "results/reproduction.json": "4ec120dd40275e1ce4e4553654942c0e5317faad022dd243d83e882a7781abd5",
+    "results/selection.json": "6c7be03de1aad682e5ebbeb47455d9c37ef6b89fbfcec2fa284cc0df253362ba",
+    "results/synthetic_negative_controls.json": "0304c99476e559672cd52498834eae7ad938f30ac56ad0f3e1b27e1e574a1db9",
+    "results/ui_verification.json": "95ff2f57fb1cff0d50159d173f2080f0fe3bec9249cceefec421674ff4667f71",
+    "src/collect_source.py": "f43b3ffbdaf66f9442d026a034a647040cd13d494c2946e665145f641f24f250",
+    "src/evaluate.py": "b1231cc333414e9b6b132454e300ca0f23c5f8dc2f750342388c13bdd3a49862",
+    "src/make_figures.py": "47718dbdcd01aed8cf3ecac9b586d74dc418f741a26cc569777ba636eb77fa16",
+    "src/reproduce.py": "72dbd0ca0f34b3de23123ddd0fe862dfcd33c01812c58678bbf17ced2b00f001",
+    "src/verify_canonical_git.py": "2f6a170317d1fae7038e43d81aa1212867433604cd5ce9ab8d7a2ac28bf2fd72",
+    "src/verify_controls.py": "bc76abf7cc330598f88b57f154b3c9e92dda525758197b1c860cbfe94089088b",
+    "src/verify_figures.py": "d21ef083a8ece1bfbe9bd20f466b12d72e3804c62f01d08546fcb4ffeb48efb9",
+    "src/verify_paper.py": "d9d0fd05a2893abe77ea845f3dc0b5d74200cd417bedf59bda594575dd159b70",
+    "src/verify_results.py": "9428c0565e12a6529b7e24ec1351bfb1b527e536bf00eb21757b578e45585259",
+    "src/verify_source.py": "6c960faa6be412647515286aefd61272c19dfbfa31b07c0d0ad6595c1ef87e94",
+    "tests/test_engine.py": "a681338e98154187f05ff2392d52eb84a89f5677b46b8b1b3e2c0b40ecb118b4",
+    "tests/test_server.py": "48e7f7b94d3942c811faf8339845c71b78ed1cc5eb41565c75a7800904990e8d",
+    "tests/__init__.py": "c2a7dba4165958fdbcaaae5eb0ac1a80ba3169b255ddcb4e71561696a2371d44",
+    "web/app.js": "27d83e0711c795a1f85720629968b3457719c8b32311149ebcd2eb7ea883bd46",
+    "web/index.html": "5c116f8b6e108f47af1aa7e24bcf1cc480bb4adee5a3456dd486c8f2a0e0427c",
+    "web/style.css": "fb7871b577636fd57e4ae91cbcfe2b66b2f0781f1afeac2f67afcae32239b256"
+  },
+  "status": "LOCAL_SCOPED_PRODUCT_AND_RESEARCH_GATES_PASS_REMOTE_RELEASE_PENDING",
+  "criteria": {
+    "product_and_exercise": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "Working local UI/CLI/API and title Jaccard/cosine rankers with query-level abstention, explanations, DOI/year restrictions; reference passes ten hand assertions and all seventeen product/API tests. Learner stub explicitly INCOMPLETE/exit2, as designed. No paid API or remote query service."
+    },
+    "source_and_rights": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "Protocol4f04c03 before eight fixed Crossref requests. 800 returned records,536 eligible unique articles,264 fixed exclusions,no duplicates. Minimal bibliographic fields/DOI-only labels;16228 checks against private originals. Public exact requests/times/rate receipts; no abstracts,full text,personal profiles,private or formal-publication manuscripts. Current metadata only."
+    },
+    "fixed_selection_and_separation": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "All ten method/threshold candidates retained;57 evaluable development queries. Jaccard0.3 selected by exact hypothetical proxy utility7/19. 34 dependencies frozen and committed7220b9e before held command. Unique query IDs disjoint,strict older-year candidates. Shared catalog and unblinded source reference metadata disclosed; no verified topic-family independence or prospective availability."
+    },
+    "independent_metrics_and_replay": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "Independent NumPy rankings,SQL citation/year joins,exact metric fractions:26812 development and4316 held checks.29 held queries,12hits,17nohits;baseline ties.8authored negative controls abstain. Offline replay32518 exact CSV fields,10319 contribution values within declared2e-12,4JSON documents;17tests and10reference assertions rerun. Human relevance remains unknown outside scoped proxy claim."
+    },
+    "presentation_and_readability": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "Executive README/paper state baseline tie,selective86/536 coverage,17unjudged nohits and unverified human usefulness. Chrome1718px desktop/390x844phone layouts and result cards inspected,no horizontal overflow. Explicit input labels/live status,visible3pxkeyboardfocus; no inspected console warnings/errors. All3original charts and6final100dpi paper pages inspected; no layout/glyph warnings. No accessibility-conformance claim."
+    },
+    "paper_and_figures": {
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "34 plotted source values,272SVGcoordinates,9hashes.70paper table values independently rebuilt from per-query exports;182paper text/number/hash/action checks;6pages and five approved paper files. ManuscriptSHA9649e6f78f4eb45a1f853264cbd9cfd726af7f51d9357f5b6b13002bb0777e92."
+    },
+    "privacy_and_canonical_git": {
+      "state": "PENDING",
+      "evidence": "Required staged bounded audit and canonical Git-blob proof before release."
+    },
+    "exact_head_remote_release": {
+      "state": "PENDING",
+      "evidence": "Require exact candidate/main Linux successes,matching tested/merged tree,remote annotated tag and synchronized public metadata."
+    }
+  },
+  "corrections": [
+    {
+      "defect": "Pre-held CSV CRLF representation and CSS blank EOF",
+      "repair": "Explicit LF CSV exports and whitespace cleanup before final freeze; development values/selection unchanged",
+      "failed_evidence": "Earlier files and failed freeze retained privately",
+      "scientific_change": false
+    },
+    {
+      "defect": "Coverage legend overlapped bars",
+      "repair": "Move legend below axes; numbers unchanged",
+      "failed_evidence": "Original figure set retained privately",
+      "scientific_change": false
+    },
+    {
+      "defect": "First TeX compile joined title line and parsed bracketed reference as a unit",
+      "repair": "Add explicit paragraphs; compile/render all six final pages",
+      "failed_evidence": "Initial source/log retained privately",
+      "scientific_change": false
+    },
+    {
+      "defect": "Packaging helper invoked from study checkout instead of task workspace, so UI receipt was initially absent",
+      "repair": "Run existing helper in task workspace; independent controls and full replay freshly pass",
+      "failed_evidence": "Task tool outputs retained",
+      "scientific_change": false
+    }
+  ],
+  "budget": {
+    "rounds_used": 3,
+    "round_limit": 3,
+    "active_review_minutes_limit": 45,
+    "review_tool_calls_limit": 60,
+    "review_call_conservative_upper_bound": 54,
+    "elapsed_wall_minutes_including_execution": 18.018180466666667,
+    "accounting": "Conservative mixed-call upper bound and elapsed wall time include execution; workload proxies only, not quota/billing estimates. Local review is complete; required remote release proof remains."
+  },
+  "account_usage": "Supported shared-account observation retained privately; no task-consumption estimate.",
+  "unknowns": [
+    "Independent human relevance and user benefit",
+    "Supporting/contradicting citation context and research quality",
+    "Original metadata vintages and prospective availability",
+    "General out-of-domain and multilingual performance",
+    "Production security,accessibility conformance and deployment readiness"
+  ],
+  "stop_reason": "Scoped product/research checks pass. No further tuning or cosmetic iteration; finish mandatory privacy/canonical and remote release gates."
+}
