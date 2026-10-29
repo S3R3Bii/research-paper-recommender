@@ -1,0 +1,122 @@
+[
+  {
+    "input": "sourdough starter feeding schedule",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "sourdough starter feeding schedule",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "bicycle tire puncture repair",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "bicycle tire puncture repair",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "indoor orchid watering tips",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "indoor orchid watering tips",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "watercolor landscape brush technique",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "watercolor landscape brush technique",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "packing suitcase beach holiday",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "packing suitcase beach holiday",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "sour cherry jam recipe",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "sour cherry jam recipe",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "acoustic guitar string replacement",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "acoustic guitar string replacement",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  },
+  {
+    "input": "puppy house training schedule",
+    "output": {
+      "abstained": true,
+      "before_year": null,
+      "candidate_count": 536,
+      "known_doi": null,
+      "method": "jaccard",
+      "notice": "Title similarity is not evidence of claim support. Scores are not probabilities.",
+      "query": "puppy house training schedule",
+      "reason": "insufficient-shared-terms",
+      "results": [],
+      "threshold": 0.3
+    }
+  }
+]

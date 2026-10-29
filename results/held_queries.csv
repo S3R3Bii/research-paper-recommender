@@ -1,0 +1,59 @@
+config,method,threshold,doi,stratum,positives,answered,hits,hit5,first_hit_rank,top_score
+jaccard-t0.3,jaccard,0.3,10.1007/s00521-024-09705-y,machine translation,1,1,0,0,0,0.428571428571
+jaccard-t0.0,jaccard,0.0,10.1007/s00521-024-09705-y,machine translation,1,1,0,0,0,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1080/1206212x.2024.2404087,graph neural networks,1,1,1,1,5,0.666666666667
+jaccard-t0.0,jaccard,0.0,10.1080/1206212x.2024.2404087,graph neural networks,1,1,1,1,5,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.1109/access.2022.3176634,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.0,jaccard,0.0,10.1109/access.2022.3176634,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.3,jaccard,0.3,10.1109/besc64747.2024.10780468,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.0,jaccard,0.0,10.1109/besc64747.2024.10780468,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.3,jaccard,0.3,10.1109/cdc51059.2022.9992506,distributed consensus,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.1109/cdc51059.2022.9992506,distributed consensus,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/dslw51110.2021.9523412,graph neural networks,3,1,0,0,0,0.8
+jaccard-t0.0,jaccard,0.0,10.1109/dslw51110.2021.9523412,graph neural networks,3,1,0,0,0,0.8
+jaccard-t0.3,jaccard,0.3,10.1109/dslw53931.2022.9820575,graph neural networks,1,1,1,1,1,0.5
+jaccard-t0.0,jaccard,0.0,10.1109/dslw53931.2022.9820575,graph neural networks,1,1,1,1,1,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/icmla51294.2020.00140,time series forecasting,1,1,1,1,2,0.428571428571
+jaccard-t0.0,jaccard,0.0,10.1109/icmla51294.2020.00140,time series forecasting,1,1,1,1,2,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1109/med51440.2021.9480355,distributed consensus,1,1,0,0,0,0.3
+jaccard-t0.0,jaccard,0.0,10.1109/med51440.2021.9480355,distributed consensus,1,1,0,0,0,0.3
+jaccard-t0.3,jaccard,0.3,10.1109/medai59581.2023.00033,graph neural networks,1,1,1,1,1,0.666666666667
+jaccard-t0.0,jaccard,0.0,10.1109/medai59581.2023.00033,graph neural networks,1,1,1,1,1,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.1109/taslp.2021.3138714,machine translation,1,1,1,1,1,0.5
+jaccard-t0.0,jaccard,0.0,10.1109/taslp.2021.3138714,machine translation,1,1,1,1,1,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/tpami.2021.3111054,graph neural networks,1,1,0,0,0,0.428571428571
+jaccard-t0.0,jaccard,0.0,10.1109/tpami.2021.3111054,graph neural networks,1,1,0,0,0,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1109/tsp.2020.3033962,graph neural networks,1,1,1,1,2,0.5
+jaccard-t0.0,jaccard,0.0,10.1109/tsp.2020.3033962,graph neural networks,1,1,1,1,2,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/tsp.2021.3092336,graph neural networks,2,1,1,1,1,1.0
+jaccard-t0.0,jaccard,0.0,10.1109/tsp.2021.3092336,graph neural networks,2,1,1,1,1,1.0
+jaccard-t0.3,jaccard,0.3,10.1111/coin.12643,machine translation,2,1,0,0,0,0.333333333333
+jaccard-t0.0,jaccard,0.0,10.1111/coin.12643,machine translation,2,1,0,0,0,0.333333333333
+jaccard-t0.3,jaccard,0.3,10.1145/3442381.3449952,graph neural networks,1,1,1,1,1,0.571428571429
+jaccard-t0.0,jaccard,0.0,10.1145/3442381.3449952,graph neural networks,1,1,1,1,1,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1145/3447548.3467256,graph neural networks,1,1,0,0,0,0.428571428571
+jaccard-t0.0,jaccard,0.0,10.1145/3447548.3467256,graph neural networks,1,1,0,0,0,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1145/3485447.3512187,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.0,jaccard,0.0,10.1145/3485447.3512187,graph neural networks,1,1,0,0,0,0.6
+jaccard-t0.3,jaccard,0.3,10.1145/3490354.3494387,time series forecasting,1,1,1,1,1,0.6
+jaccard-t0.0,jaccard,0.0,10.1145/3490354.3494387,time series forecasting,1,1,1,1,1,0.6
+jaccard-t0.3,jaccard,0.3,10.1145/3503161.3548111,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.1145/3503161.3548111,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1145/3511808.3557356,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.1145/3511808.3557356,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1145/3511808.3557467,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.1145/3511808.3557467,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1145/3543507.3583419,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.1145/3543507.3583419,graph neural networks,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1145/3703323.3704283,graph neural networks,2,1,0,0,0,0.75
+jaccard-t0.0,jaccard,0.0,10.1145/3703323.3704283,graph neural networks,2,1,0,0,0,0.75
+jaccard-t0.3,jaccard,0.3,10.1155/2021/5935958,machine translation,1,1,1,1,4,0.571428571429
+jaccard-t0.0,jaccard,0.0,10.1155/2021/5935958,machine translation,1,1,1,1,4,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1155/2023/9898413,machine translation,1,1,1,1,1,0.9
+jaccard-t0.0,jaccard,0.0,10.1155/2023/9898413,machine translation,1,1,1,1,1,0.9
+jaccard-t0.3,jaccard,0.3,10.3390/app14156848,machine translation,1,1,1,1,4,0.333333333333
+jaccard-t0.0,jaccard,0.0,10.3390/app14156848,machine translation,1,1,1,1,4,0.333333333333
+jaccard-t0.3,jaccard,0.3,10.3390/e26010092,time series forecasting,1,1,0,0,0,0.5
+jaccard-t0.0,jaccard,0.0,10.3390/e26010092,time series forecasting,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.7717/peerj-cs.901,graph neural networks,1,1,0,0,0,0.375
+jaccard-t0.0,jaccard,0.0,10.7717/peerj-cs.901,graph neural networks,1,1,0,0,0,0.375

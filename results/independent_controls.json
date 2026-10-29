@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "checks": 46,
+  "authored_controls": 8,
+  "abstentions": 8,
+  "unknown": "Human relevance, multilingual and general out-of-domain safety; finite synthetic negatives are not those validations"
+}
