@@ -1,0 +1,571 @@
+config,method,threshold,doi,stratum,positives,answered,hits,hit5,first_hit_rank,top_score
+cosine-t0.0,cosine,0,10.1002/smr.2549,software defect prediction,4,1,1,1,1,0.451552451728
+cosine-t0.1,cosine,0.1,10.1002/smr.2549,software defect prediction,4,1,1,1,1,0.451552451728
+cosine-t0.2,cosine,0.2,10.1002/smr.2549,software defect prediction,4,1,1,1,1,0.451552451728
+cosine-t0.3,cosine,0.3,10.1002/smr.2549,software defect prediction,4,1,1,1,1,0.451552451728
+cosine-t0.4,cosine,0.4,10.1002/smr.2549,software defect prediction,4,1,1,1,1,0.451552451728
+jaccard-t0.0,jaccard,0,10.1002/smr.2549,software defect prediction,4,1,1,1,3,0.5
+jaccard-t0.1,jaccard,0.1,10.1002/smr.2549,software defect prediction,4,1,1,1,3,0.5
+jaccard-t0.2,jaccard,0.2,10.1002/smr.2549,software defect prediction,4,1,1,1,3,0.5
+jaccard-t0.3,jaccard,0.3,10.1002/smr.2549,software defect prediction,4,1,1,1,3,0.5
+jaccard-t0.4,jaccard,0.4,10.1002/smr.2549,software defect prediction,4,1,1,1,3,0.5
+cosine-t0.0,cosine,0,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.609309457546
+cosine-t0.1,cosine,0.1,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.609309457546
+cosine-t0.2,cosine,0.2,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.609309457546
+cosine-t0.3,cosine,0.3,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.609309457546
+cosine-t0.4,cosine,0.4,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.609309457546
+jaccard-t0.0,jaccard,0,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.444444444444
+jaccard-t0.1,jaccard,0.1,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.444444444444
+jaccard-t0.2,jaccard,0.2,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.444444444444
+jaccard-t0.3,jaccard,0.3,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.444444444444
+jaccard-t0.4,jaccard,0.4,10.1002/smr.2634,software defect prediction,2,1,0,0,0,0.444444444444
+cosine-t0.0,cosine,0,10.1007/s00521-024-10937-1,software defect prediction,8,1,0,0,0,0.601157654277
+cosine-t0.1,cosine,0.1,10.1007/s00521-024-10937-1,software defect prediction,8,1,0,0,0,0.601157654277
+cosine-t0.2,cosine,0.2,10.1007/s00521-024-10937-1,software defect prediction,8,1,0,0,0,0.601157654277
+cosine-t0.3,cosine,0.3,10.1007/s00521-024-10937-1,software defect prediction,8,1,0,0,0,0.601157654277
+cosine-t0.4,cosine,0.4,10.1007/s00521-024-10937-1,software defect prediction,8,1,0,0,0,0.601157654277
+jaccard-t0.0,jaccard,0,10.1007/s00521-024-10937-1,software defect prediction,8,1,2,1,4,0.666666666667
+jaccard-t0.1,jaccard,0.1,10.1007/s00521-024-10937-1,software defect prediction,8,1,2,1,4,0.666666666667
+jaccard-t0.2,jaccard,0.2,10.1007/s00521-024-10937-1,software defect prediction,8,1,2,1,4,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.1007/s00521-024-10937-1,software defect prediction,8,1,2,1,4,0.666666666667
+jaccard-t0.4,jaccard,0.4,10.1007/s00521-024-10937-1,software defect prediction,8,1,2,1,4,0.666666666667
+cosine-t0.0,cosine,0,10.1007/s10515-024-00424-1,software defect prediction,2,1,0,0,0,0.379488410727
+cosine-t0.1,cosine,0.1,10.1007/s10515-024-00424-1,software defect prediction,2,1,0,0,0,0.379488410727
+cosine-t0.2,cosine,0.2,10.1007/s10515-024-00424-1,software defect prediction,2,1,0,0,0,0.379488410727
+cosine-t0.3,cosine,0.3,10.1007/s10515-024-00424-1,software defect prediction,2,1,0,0,0,0.379488410727
+cosine-t0.4,cosine,0.4,10.1007/s10515-024-00424-1,software defect prediction,2,0,0,0,0,0.379488410727
+jaccard-t0.0,jaccard,0,10.1007/s10515-024-00424-1,software defect prediction,2,1,1,1,4,0.428571428571
+jaccard-t0.1,jaccard,0.1,10.1007/s10515-024-00424-1,software defect prediction,2,1,1,1,4,0.428571428571
+jaccard-t0.2,jaccard,0.2,10.1007/s10515-024-00424-1,software defect prediction,2,1,1,1,4,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1007/s10515-024-00424-1,software defect prediction,2,1,1,1,4,0.428571428571
+jaccard-t0.4,jaccard,0.4,10.1007/s10515-024-00424-1,software defect prediction,2,1,1,1,4,0.428571428571
+cosine-t0.0,cosine,0,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.770490462089
+cosine-t0.1,cosine,0.1,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.770490462089
+cosine-t0.2,cosine,0.2,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.770490462089
+cosine-t0.3,cosine,0.3,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.770490462089
+cosine-t0.4,cosine,0.4,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.770490462089
+jaccard-t0.0,jaccard,0,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.1,jaccard,0.1,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.2,jaccard,0.2,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.3,jaccard,0.3,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.4,jaccard,0.4,10.1007/s11063-020-10355-z,software defect prediction,1,1,0,0,0,0.625
+cosine-t0.0,cosine,0,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,4,1.0
+cosine-t0.1,cosine,0.1,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,4,1.0
+cosine-t0.2,cosine,0.2,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,4,1.0
+cosine-t0.3,cosine,0.3,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,4,1.0
+cosine-t0.4,cosine,0.4,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,4,1.0
+jaccard-t0.0,jaccard,0,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,2,1.0
+jaccard-t0.1,jaccard,0.1,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,2,1.0
+jaccard-t0.2,jaccard,0.2,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,2,1.0
+jaccard-t0.3,jaccard,0.3,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,2,1.0
+jaccard-t0.4,jaccard,0.4,10.1016/j.jer.2023.10.038,software defect prediction,1,1,1,1,2,1.0
+cosine-t0.0,cosine,0,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,2,0.642400208972
+cosine-t0.1,cosine,0.1,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,2,0.642400208972
+cosine-t0.2,cosine,0.2,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,2,0.642400208972
+cosine-t0.3,cosine,0.3,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,2,0.642400208972
+cosine-t0.4,cosine,0.4,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,2,0.642400208972
+jaccard-t0.0,jaccard,0,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,1,0.5
+jaccard-t0.1,jaccard,0.1,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,1,0.5
+jaccard-t0.2,jaccard,0.2,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,1,0.5
+jaccard-t0.3,jaccard,0.3,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,1,0.5
+jaccard-t0.4,jaccard,0.4,10.1049/iet-sen.2019.0149,software defect prediction,1,1,1,1,1,0.5
+cosine-t0.0,cosine,0,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+cosine-t0.1,cosine,0.1,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+cosine-t0.2,cosine,0.2,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+cosine-t0.3,cosine,0.3,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+cosine-t0.4,cosine,0.4,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+jaccard-t0.0,jaccard,0,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+jaccard-t0.1,jaccard,0.1,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+jaccard-t0.2,jaccard,0.2,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+jaccard-t0.3,jaccard,0.3,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+jaccard-t0.4,jaccard,0.4,10.1063/5.0178913,software defect prediction,1,1,0,0,0,1.0
+cosine-t0.0,cosine,0,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.647378142706
+cosine-t0.1,cosine,0.1,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.647378142706
+cosine-t0.2,cosine,0.2,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.647378142706
+cosine-t0.3,cosine,0.3,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.647378142706
+cosine-t0.4,cosine,0.4,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.647378142706
+jaccard-t0.0,jaccard,0,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.1,jaccard,0.1,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.2,jaccard,0.2,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.4,jaccard,0.4,10.1080/01621459.2023.2279695,recommender systems,1,1,0,0,0,0.666666666667
+cosine-t0.0,cosine,0,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,1.0
+cosine-t0.1,cosine,0.1,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,1.0
+cosine-t0.2,cosine,0.2,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,1.0
+cosine-t0.3,cosine,0.3,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,1.0
+cosine-t0.4,cosine,0.4,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,1.0
+jaccard-t0.0,jaccard,0,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,0.4
+jaccard-t0.1,jaccard,0.1,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,0.4
+jaccard-t0.2,jaccard,0.2,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,0.4
+jaccard-t0.3,jaccard,0.3,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,0.4
+jaccard-t0.4,jaccard,0.4,10.1108/dta-08-2019-0135,recommender systems,1,1,1,1,1,0.4
+cosine-t0.0,cosine,0,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,3,0.437779565212
+cosine-t0.1,cosine,0.1,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,3,0.437779565212
+cosine-t0.2,cosine,0.2,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,3,0.437779565212
+cosine-t0.3,cosine,0.3,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,3,0.437779565212
+cosine-t0.4,cosine,0.4,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,3,0.437779565212
+jaccard-t0.0,jaccard,0,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,2,0.375
+jaccard-t0.1,jaccard,0.1,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,2,0.375
+jaccard-t0.2,jaccard,0.2,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,2,0.375
+jaccard-t0.3,jaccard,0.3,10.1109/access.2021.3054948,software defect prediction,1,1,1,1,2,0.375
+jaccard-t0.4,jaccard,0.4,10.1109/access.2021.3054948,software defect prediction,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.519228999842
+cosine-t0.1,cosine,0.1,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.519228999842
+cosine-t0.2,cosine,0.2,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.519228999842
+cosine-t0.3,cosine,0.3,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.519228999842
+cosine-t0.4,cosine,0.4,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.519228999842
+jaccard-t0.0,jaccard,0,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.4
+jaccard-t0.1,jaccard,0.1,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.4
+jaccard-t0.2,jaccard,0.2,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.4
+jaccard-t0.3,jaccard,0.3,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.4
+jaccard-t0.4,jaccard,0.4,10.1109/access.2022.3141589,database query optimization,1,1,1,1,3,0.4
+cosine-t0.0,cosine,0,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,4,0.393050013329
+cosine-t0.1,cosine,0.1,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,4,0.393050013329
+cosine-t0.2,cosine,0.2,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,4,0.393050013329
+cosine-t0.3,cosine,0.3,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,4,0.393050013329
+cosine-t0.4,cosine,0.4,10.1109/access.2022.3211978,software defect prediction,4,0,0,0,0,0.393050013329
+jaccard-t0.0,jaccard,0,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,3,0.428571428571
+jaccard-t0.1,jaccard,0.1,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,3,0.428571428571
+jaccard-t0.2,jaccard,0.2,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,3,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,3,0.428571428571
+jaccard-t0.4,jaccard,0.4,10.1109/access.2022.3211978,software defect prediction,4,1,1,1,3,0.428571428571
+cosine-t0.0,cosine,0,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,1.0
+cosine-t0.1,cosine,0.1,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,1.0
+cosine-t0.2,cosine,0.2,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,1.0
+cosine-t0.3,cosine,0.3,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,1.0
+cosine-t0.4,cosine,0.4,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,1.0
+jaccard-t0.0,jaccard,0,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,0.833333333333
+jaccard-t0.1,jaccard,0.1,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,0.833333333333
+jaccard-t0.2,jaccard,0.2,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,0.833333333333
+jaccard-t0.3,jaccard,0.3,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,0.833333333333
+jaccard-t0.4,jaccard,0.4,10.1109/access.2022.3217480,software defect prediction,2,1,2,1,2,0.833333333333
+cosine-t0.0,cosine,0,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.632139200366
+cosine-t0.1,cosine,0.1,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.632139200366
+cosine-t0.2,cosine,0.2,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.632139200366
+cosine-t0.3,cosine,0.3,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.632139200366
+cosine-t0.4,cosine,0.4,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.632139200366
+jaccard-t0.0,jaccard,0,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.1,jaccard,0.1,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.2,jaccard,0.2,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.3,jaccard,0.3,10.1109/bigdata55660.2022.10020338,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.4,jaccard,0.4,10.1109/bigdata55660.2022.10020338,database query optimization,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,1,0.6087311289
+cosine-t0.1,cosine,0.1,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,1,0.6087311289
+cosine-t0.2,cosine,0.2,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,1,0.6087311289
+cosine-t0.3,cosine,0.3,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,1,0.6087311289
+cosine-t0.4,cosine,0.4,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,1,0.6087311289
+jaccard-t0.0,jaccard,0,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,4,0.333333333333
+jaccard-t0.1,jaccard,0.1,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,4,0.333333333333
+jaccard-t0.2,jaccard,0.2,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,4,0.333333333333
+jaccard-t0.3,jaccard,0.3,10.1109/conf-spml54095.2021.00015,recommender systems,1,1,1,1,4,0.333333333333
+jaccard-t0.4,jaccard,0.4,10.1109/conf-spml54095.2021.00015,recommender systems,1,0,0,0,0,0.333333333333
+cosine-t0.0,cosine,0,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.61575822007
+cosine-t0.1,cosine,0.1,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.61575822007
+cosine-t0.2,cosine,0.2,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.61575822007
+cosine-t0.3,cosine,0.3,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.61575822007
+cosine-t0.4,cosine,0.4,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.61575822007
+jaccard-t0.0,jaccard,0,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1109/i-smac58438.2023.10290523,software defect prediction,1,1,0,0,0,0.571428571429
+cosine-t0.0,cosine,0,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.69466800443
+cosine-t0.1,cosine,0.1,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.69466800443
+cosine-t0.2,cosine,0.2,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.69466800443
+cosine-t0.3,cosine,0.3,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.69466800443
+cosine-t0.4,cosine,0.4,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.69466800443
+jaccard-t0.0,jaccard,0,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1109/icaiccit60255.2023.10466047,software defect prediction,2,1,0,0,0,0.571428571429
+cosine-t0.0,cosine,0,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.3955337595
+cosine-t0.1,cosine,0.1,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.3955337595
+cosine-t0.2,cosine,0.2,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.3955337595
+cosine-t0.3,cosine,0.3,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.3955337595
+cosine-t0.4,cosine,0.4,10.1109/iccit62134.2024.10701182,software defect prediction,1,0,0,0,0,0.3955337595
+jaccard-t0.0,jaccard,0,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.428571428571
+jaccard-t0.1,jaccard,0.1,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.428571428571
+jaccard-t0.2,jaccard,0.2,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.428571428571
+jaccard-t0.3,jaccard,0.3,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.428571428571
+jaccard-t0.4,jaccard,0.4,10.1109/iccit62134.2024.10701182,software defect prediction,1,1,0,0,0,0.428571428571
+cosine-t0.0,cosine,0,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,5,0.587323517677
+cosine-t0.1,cosine,0.1,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,5,0.587323517677
+cosine-t0.2,cosine,0.2,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,5,0.587323517677
+cosine-t0.3,cosine,0.3,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,5,0.587323517677
+cosine-t0.4,cosine,0.4,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,5,0.587323517677
+jaccard-t0.0,jaccard,0,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,3,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,3,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,3,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,3,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1109/icctit60726.2023.10435711,software defect prediction,2,1,1,1,3,0.571428571429
+cosine-t0.0,cosine,0,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.496943973002
+cosine-t0.1,cosine,0.1,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.496943973002
+cosine-t0.2,cosine,0.2,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.496943973002
+cosine-t0.3,cosine,0.3,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.496943973002
+cosine-t0.4,cosine,0.4,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.496943973002
+jaccard-t0.0,jaccard,0,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.384615384615
+jaccard-t0.1,jaccard,0.1,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.384615384615
+jaccard-t0.2,jaccard,0.2,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.384615384615
+jaccard-t0.3,jaccard,0.3,10.1109/icedcs60513.2023.00131,database query optimization,1,1,0,0,0,0.384615384615
+jaccard-t0.4,jaccard,0.4,10.1109/icedcs60513.2023.00131,database query optimization,1,0,0,0,0,0.384615384615
+cosine-t0.0,cosine,0,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.777285482942
+cosine-t0.1,cosine,0.1,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.777285482942
+cosine-t0.2,cosine,0.2,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.777285482942
+cosine-t0.3,cosine,0.3,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.777285482942
+cosine-t0.4,cosine,0.4,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.777285482942
+jaccard-t0.0,jaccard,0,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.1,jaccard,0.1,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.2,jaccard,0.2,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.4,jaccard,0.4,10.1109/icemce60359.2023.10490819,database query optimization,1,1,1,1,2,0.5
+cosine-t0.0,cosine,0,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.771346737178
+cosine-t0.1,cosine,0.1,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.771346737178
+cosine-t0.2,cosine,0.2,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.771346737178
+cosine-t0.3,cosine,0.3,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.771346737178
+cosine-t0.4,cosine,0.4,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.771346737178
+jaccard-t0.0,jaccard,0,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.1,jaccard,0.1,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.2,jaccard,0.2,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.3,jaccard,0.3,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.4,jaccard,0.4,10.1109/icmeae55138.2021.00026,software defect prediction,1,1,0,0,0,0.444444444444
+cosine-t0.0,cosine,0,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.729376808593
+cosine-t0.1,cosine,0.1,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.729376808593
+cosine-t0.2,cosine,0.2,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.729376808593
+cosine-t0.3,cosine,0.3,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.729376808593
+cosine-t0.4,cosine,0.4,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.729376808593
+jaccard-t0.0,jaccard,0,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1109/icodt255437.2022.9787439,software defect prediction,1,1,0,0,0,0.571428571429
+cosine-t0.0,cosine,0,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.50686746835
+cosine-t0.1,cosine,0.1,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.50686746835
+cosine-t0.2,cosine,0.2,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.50686746835
+cosine-t0.3,cosine,0.3,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.50686746835
+cosine-t0.4,cosine,0.4,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.50686746835
+jaccard-t0.0,jaccard,0,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1109/icoseit60086.2024.10497461,software defect prediction,1,1,0,0,0,0.571428571429
+cosine-t0.0,cosine,0,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.431528348803
+cosine-t0.1,cosine,0.1,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.431528348803
+cosine-t0.2,cosine,0.2,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.431528348803
+cosine-t0.3,cosine,0.3,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.431528348803
+cosine-t0.4,cosine,0.4,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.431528348803
+jaccard-t0.0,jaccard,0,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.333333333333
+jaccard-t0.1,jaccard,0.1,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.333333333333
+jaccard-t0.2,jaccard,0.2,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.333333333333
+jaccard-t0.3,jaccard,0.3,10.1109/icse43902.2021.00050,software defect prediction,2,1,0,0,0,0.333333333333
+jaccard-t0.4,jaccard,0.4,10.1109/icse43902.2021.00050,software defect prediction,2,0,0,0,0,0.333333333333
+cosine-t0.0,cosine,0,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.504967024292
+cosine-t0.1,cosine,0.1,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.504967024292
+cosine-t0.2,cosine,0.2,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.504967024292
+cosine-t0.3,cosine,0.3,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.504967024292
+cosine-t0.4,cosine,0.4,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.504967024292
+jaccard-t0.0,jaccard,0,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.1,jaccard,0.1,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.2,jaccard,0.2,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.3,jaccard,0.3,10.1109/icse48619.2023.00174,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.4,jaccard,0.4,10.1109/icse48619.2023.00174,database query optimization,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1109/isit45174.2021.9518183,information retrieval,2,1,2,1,1,0.774009959275
+cosine-t0.1,cosine,0.1,10.1109/isit45174.2021.9518183,information retrieval,2,1,2,1,1,0.774009959275
+cosine-t0.2,cosine,0.2,10.1109/isit45174.2021.9518183,information retrieval,2,1,2,1,1,0.774009959275
+cosine-t0.3,cosine,0.3,10.1109/isit45174.2021.9518183,information retrieval,2,1,2,1,1,0.774009959275
+cosine-t0.4,cosine,0.4,10.1109/isit45174.2021.9518183,information retrieval,2,1,2,1,1,0.774009959275
+jaccard-t0.0,jaccard,0,10.1109/isit45174.2021.9518183,information retrieval,2,1,1,1,3,0.6
+jaccard-t0.1,jaccard,0.1,10.1109/isit45174.2021.9518183,information retrieval,2,1,1,1,3,0.6
+jaccard-t0.2,jaccard,0.2,10.1109/isit45174.2021.9518183,information retrieval,2,1,1,1,3,0.6
+jaccard-t0.3,jaccard,0.3,10.1109/isit45174.2021.9518183,information retrieval,2,1,1,1,3,0.6
+jaccard-t0.4,jaccard,0.4,10.1109/isit45174.2021.9518183,information retrieval,2,1,1,1,3,0.6
+cosine-t0.0,cosine,0,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,1,0.671835701331
+cosine-t0.1,cosine,0.1,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,1,0.671835701331
+cosine-t0.2,cosine,0.2,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,1,0.671835701331
+cosine-t0.3,cosine,0.3,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,1,0.671835701331
+cosine-t0.4,cosine,0.4,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,1,0.671835701331
+jaccard-t0.0,jaccard,0,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,4,0.5
+jaccard-t0.1,jaccard,0.1,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,4,0.5
+jaccard-t0.2,jaccard,0.2,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,4,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,4,0.5
+jaccard-t0.4,jaccard,0.4,10.1109/jsait.2022.3188610,information retrieval,2,1,1,1,4,0.5
+cosine-t0.0,cosine,0,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.553955539142
+cosine-t0.1,cosine,0.1,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.553955539142
+cosine-t0.2,cosine,0.2,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.553955539142
+cosine-t0.3,cosine,0.3,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.553955539142
+cosine-t0.4,cosine,0.4,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.553955539142
+jaccard-t0.0,jaccard,0,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.444444444444
+jaccard-t0.1,jaccard,0.1,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.444444444444
+jaccard-t0.2,jaccard,0.2,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.444444444444
+jaccard-t0.3,jaccard,0.3,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.444444444444
+jaccard-t0.4,jaccard,0.4,10.1109/ngdn61651.2024.10744063,database query optimization,1,1,0,0,0,0.444444444444
+cosine-t0.0,cosine,0,10.1109/nir52917.2021.9666110,software defect prediction,1,1,0,0,0,0.456459833063
+cosine-t0.1,cosine,0.1,10.1109/nir52917.2021.9666110,software defect prediction,1,1,0,0,0,0.456459833063
+cosine-t0.2,cosine,0.2,10.1109/nir52917.2021.9666110,software defect prediction,1,1,0,0,0,0.456459833063
+cosine-t0.3,cosine,0.3,10.1109/nir52917.2021.9666110,software defect prediction,1,1,0,0,0,0.456459833063
+cosine-t0.4,cosine,0.4,10.1109/nir52917.2021.9666110,software defect prediction,1,1,0,0,0,0.456459833063
+jaccard-t0.0,jaccard,0,10.1109/nir52917.2021.9666110,software defect prediction,1,1,1,1,3,0.5
+jaccard-t0.1,jaccard,0.1,10.1109/nir52917.2021.9666110,software defect prediction,1,1,1,1,3,0.5
+jaccard-t0.2,jaccard,0.2,10.1109/nir52917.2021.9666110,software defect prediction,1,1,1,1,3,0.5
+jaccard-t0.3,jaccard,0.3,10.1109/nir52917.2021.9666110,software defect prediction,1,1,1,1,3,0.5
+jaccard-t0.4,jaccard,0.4,10.1109/nir52917.2021.9666110,software defect prediction,1,1,1,1,3,0.5
+cosine-t0.0,cosine,0,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.270147721783
+cosine-t0.1,cosine,0.1,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.270147721783
+cosine-t0.2,cosine,0.2,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.270147721783
+cosine-t0.3,cosine,0.3,10.1109/saner56733.2023.00114,software defect prediction,1,0,0,0,0,0.270147721783
+cosine-t0.4,cosine,0.4,10.1109/saner56733.2023.00114,software defect prediction,1,0,0,0,0,0.270147721783
+jaccard-t0.0,jaccard,0,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.1,jaccard,0.1,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.2,jaccard,0.2,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.3,jaccard,0.3,10.1109/saner56733.2023.00114,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.4,jaccard,0.4,10.1109/saner56733.2023.00114,software defect prediction,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.743625218309
+cosine-t0.1,cosine,0.1,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.743625218309
+cosine-t0.2,cosine,0.2,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.743625218309
+cosine-t0.3,cosine,0.3,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.743625218309
+cosine-t0.4,cosine,0.4,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.743625218309
+jaccard-t0.0,jaccard,0,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.6
+jaccard-t0.1,jaccard,0.1,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.6
+jaccard-t0.2,jaccard,0.2,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.6
+jaccard-t0.3,jaccard,0.3,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.6
+jaccard-t0.4,jaccard,0.4,10.1109/tit.2019.2948845,information retrieval,1,1,1,1,3,0.6
+cosine-t0.0,cosine,0,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,1,0.591301821623
+cosine-t0.1,cosine,0.1,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,1,0.591301821623
+cosine-t0.2,cosine,0.2,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,1,0.591301821623
+cosine-t0.3,cosine,0.3,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,1,0.591301821623
+cosine-t0.4,cosine,0.4,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,1,0.591301821623
+jaccard-t0.0,jaccard,0,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,4,0.6
+jaccard-t0.1,jaccard,0.1,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,4,0.6
+jaccard-t0.2,jaccard,0.2,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,4,0.6
+jaccard-t0.3,jaccard,0.3,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,4,0.6
+jaccard-t0.4,jaccard,0.4,10.1109/tit.2021.3136583,information retrieval,2,1,1,1,4,0.6
+cosine-t0.0,cosine,0,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.519675743196
+cosine-t0.1,cosine,0.1,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.519675743196
+cosine-t0.2,cosine,0.2,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.519675743196
+cosine-t0.3,cosine,0.3,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.519675743196
+cosine-t0.4,cosine,0.4,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.519675743196
+jaccard-t0.0,jaccard,0,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.1,jaccard,0.1,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.2,jaccard,0.2,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.3,jaccard,0.3,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.444444444444
+jaccard-t0.4,jaccard,0.4,10.1109/tr.2020.3047396,software defect prediction,1,1,0,0,0,0.444444444444
+cosine-t0.0,cosine,0,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,1.0
+cosine-t0.1,cosine,0.1,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,1.0
+cosine-t0.2,cosine,0.2,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,1.0
+cosine-t0.3,cosine,0.3,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,1.0
+cosine-t0.4,cosine,0.4,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,1.0
+jaccard-t0.0,jaccard,0,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.1,jaccard,0.1,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.2,jaccard,0.2,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.3,jaccard,0.3,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.4,jaccard,0.4,10.1145/3308560.3320091,recommender systems,1,1,1,1,1,0.8
+cosine-t0.0,cosine,0,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.813448900788
+cosine-t0.1,cosine,0.1,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.813448900788
+cosine-t0.2,cosine,0.2,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.813448900788
+cosine-t0.3,cosine,0.3,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.813448900788
+cosine-t0.4,cosine,0.4,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.813448900788
+jaccard-t0.0,jaccard,0,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.636363636364
+jaccard-t0.1,jaccard,0.1,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.636363636364
+jaccard-t0.2,jaccard,0.2,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.636363636364
+jaccard-t0.3,jaccard,0.3,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.636363636364
+jaccard-t0.4,jaccard,0.4,10.1145/3335484.3335499,database query optimization,1,1,1,1,1,0.636363636364
+cosine-t0.0,cosine,0,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.662654983568
+cosine-t0.1,cosine,0.1,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.662654983568
+cosine-t0.2,cosine,0.2,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.662654983568
+cosine-t0.3,cosine,0.3,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.662654983568
+cosine-t0.4,cosine,0.4,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.662654983568
+jaccard-t0.0,jaccard,0,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.555555555556
+jaccard-t0.1,jaccard,0.1,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.555555555556
+jaccard-t0.2,jaccard,0.2,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.555555555556
+jaccard-t0.3,jaccard,0.3,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.555555555556
+jaccard-t0.4,jaccard,0.4,10.1145/3377811.3380389,software defect prediction,1,1,1,1,1,0.555555555556
+cosine-t0.0,cosine,0,10.1145/3407190,recommender systems,1,1,1,1,5,1.0
+cosine-t0.1,cosine,0.1,10.1145/3407190,recommender systems,1,1,1,1,5,1.0
+cosine-t0.2,cosine,0.2,10.1145/3407190,recommender systems,1,1,1,1,5,1.0
+cosine-t0.3,cosine,0.3,10.1145/3407190,recommender systems,1,1,1,1,5,1.0
+cosine-t0.4,cosine,0.4,10.1145/3407190,recommender systems,1,1,1,1,5,1.0
+jaccard-t0.0,jaccard,0,10.1145/3407190,recommender systems,1,1,0,0,0,0.6
+jaccard-t0.1,jaccard,0.1,10.1145/3407190,recommender systems,1,1,0,0,0,0.6
+jaccard-t0.2,jaccard,0.2,10.1145/3407190,recommender systems,1,1,0,0,0,0.6
+jaccard-t0.3,jaccard,0.3,10.1145/3407190,recommender systems,1,1,0,0,0,0.6
+jaccard-t0.4,jaccard,0.4,10.1145/3407190,recommender systems,1,1,0,0,0,0.6
+cosine-t0.0,cosine,0,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.674772586093
+cosine-t0.1,cosine,0.1,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.674772586093
+cosine-t0.2,cosine,0.2,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.674772586093
+cosine-t0.3,cosine,0.3,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.674772586093
+cosine-t0.4,cosine,0.4,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.674772586093
+jaccard-t0.0,jaccard,0,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.5
+jaccard-t0.1,jaccard,0.1,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.5
+jaccard-t0.2,jaccard,0.2,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.5
+jaccard-t0.3,jaccard,0.3,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.5
+jaccard-t0.4,jaccard,0.4,10.1145/3416508.3417114,software defect prediction,1,1,1,1,2,0.5
+cosine-t0.0,cosine,0,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.854129859267
+cosine-t0.1,cosine,0.1,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.854129859267
+cosine-t0.2,cosine,0.2,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.854129859267
+cosine-t0.3,cosine,0.3,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.854129859267
+cosine-t0.4,cosine,0.4,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.854129859267
+jaccard-t0.0,jaccard,0,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.1145/3498366.3505841,recommender systems,1,1,1,1,1,0.571428571429
+cosine-t0.0,cosine,0,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.84443809366
+cosine-t0.1,cosine,0.1,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.84443809366
+cosine-t0.2,cosine,0.2,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.84443809366
+cosine-t0.3,cosine,0.3,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.84443809366
+cosine-t0.4,cosine,0.4,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.84443809366
+jaccard-t0.0,jaccard,0,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.1,jaccard,0.1,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.2,jaccard,0.2,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.3,jaccard,0.3,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.8
+jaccard-t0.4,jaccard,0.4,10.1145/3523227.3547375,recommender systems,1,1,1,1,1,0.8
+cosine-t0.0,cosine,0,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.406454241474
+cosine-t0.1,cosine,0.1,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.406454241474
+cosine-t0.2,cosine,0.2,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.406454241474
+cosine-t0.3,cosine,0.3,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.406454241474
+cosine-t0.4,cosine,0.4,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.406454241474
+jaccard-t0.0,jaccard,0,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.1,jaccard,0.1,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.2,jaccard,0.2,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.3,jaccard,0.3,10.1145/3594315.3594371,software defect prediction,1,1,0,0,0,0.375
+jaccard-t0.4,jaccard,0.4,10.1145/3594315.3594371,software defect prediction,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.495882526452
+cosine-t0.1,cosine,0.1,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.495882526452
+cosine-t0.2,cosine,0.2,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.495882526452
+cosine-t0.3,cosine,0.3,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.495882526452
+cosine-t0.4,cosine,0.4,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.495882526452
+jaccard-t0.0,jaccard,0,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.375
+jaccard-t0.1,jaccard,0.1,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.375
+jaccard-t0.2,jaccard,0.2,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.375
+jaccard-t0.3,jaccard,0.3,10.1145/3597926.3598044,database query optimization,1,1,1,1,2,0.375
+jaccard-t0.4,jaccard,0.4,10.1145/3597926.3598044,database query optimization,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.1145/3627826,recommender systems,1,1,0,0,0,0.564080104838
+cosine-t0.1,cosine,0.1,10.1145/3627826,recommender systems,1,1,0,0,0,0.564080104838
+cosine-t0.2,cosine,0.2,10.1145/3627826,recommender systems,1,1,0,0,0,0.564080104838
+cosine-t0.3,cosine,0.3,10.1145/3627826,recommender systems,1,1,0,0,0,0.564080104838
+cosine-t0.4,cosine,0.4,10.1145/3627826,recommender systems,1,1,0,0,0,0.564080104838
+jaccard-t0.0,jaccard,0,10.1145/3627826,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.1,jaccard,0.1,10.1145/3627826,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.2,jaccard,0.2,10.1145/3627826,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.1145/3627826,recommender systems,1,1,0,0,0,0.666666666667
+jaccard-t0.4,jaccard,0.4,10.1145/3627826,recommender systems,1,1,0,0,0,0.666666666667
+cosine-t0.0,cosine,0,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.326185793837
+cosine-t0.1,cosine,0.1,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.326185793837
+cosine-t0.2,cosine,0.2,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.326185793837
+cosine-t0.3,cosine,0.3,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.326185793837
+cosine-t0.4,cosine,0.4,10.1155/2021/6118113,database query optimization,1,0,0,0,0,0.326185793837
+jaccard-t0.0,jaccard,0,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.266666666667
+jaccard-t0.1,jaccard,0.1,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.266666666667
+jaccard-t0.2,jaccard,0.2,10.1155/2021/6118113,database query optimization,1,1,0,0,0,0.266666666667
+jaccard-t0.3,jaccard,0.3,10.1155/2021/6118113,database query optimization,1,0,0,0,0,0.266666666667
+jaccard-t0.4,jaccard,0.4,10.1155/2021/6118113,database query optimization,1,0,0,0,0,0.266666666667
+cosine-t0.0,cosine,0,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.494132973666
+cosine-t0.1,cosine,0.1,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.494132973666
+cosine-t0.2,cosine,0.2,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.494132973666
+cosine-t0.3,cosine,0.3,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.494132973666
+cosine-t0.4,cosine,0.4,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.494132973666
+jaccard-t0.0,jaccard,0,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.1,jaccard,0.1,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.2,jaccard,0.2,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.3,jaccard,0.3,10.14778/3611540.3611544,database query optimization,1,1,0,0,0,0.375
+jaccard-t0.4,jaccard,0.4,10.14778/3611540.3611544,database query optimization,1,0,0,0,0,0.375
+cosine-t0.0,cosine,0,10.14778/3685800.3685846,database query optimization,1,1,1,1,1,0.548531685876
+cosine-t0.1,cosine,0.1,10.14778/3685800.3685846,database query optimization,1,1,1,1,1,0.548531685876
+cosine-t0.2,cosine,0.2,10.14778/3685800.3685846,database query optimization,1,1,1,1,1,0.548531685876
+cosine-t0.3,cosine,0.3,10.14778/3685800.3685846,database query optimization,1,1,1,1,1,0.548531685876
+cosine-t0.4,cosine,0.4,10.14778/3685800.3685846,database query optimization,1,1,1,1,1,0.548531685876
+jaccard-t0.0,jaccard,0,10.14778/3685800.3685846,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.1,jaccard,0.1,10.14778/3685800.3685846,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.2,jaccard,0.2,10.14778/3685800.3685846,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.3,jaccard,0.3,10.14778/3685800.3685846,database query optimization,1,1,1,1,2,0.5
+jaccard-t0.4,jaccard,0.4,10.14778/3685800.3685846,database query optimization,1,1,1,1,2,0.5
+cosine-t0.0,cosine,0,10.1561/1500000090,recommender systems,1,1,0,0,0,1.0
+cosine-t0.1,cosine,0.1,10.1561/1500000090,recommender systems,1,1,0,0,0,1.0
+cosine-t0.2,cosine,0.2,10.1561/1500000090,recommender systems,1,1,0,0,0,1.0
+cosine-t0.3,cosine,0.3,10.1561/1500000090,recommender systems,1,1,0,0,0,1.0
+cosine-t0.4,cosine,0.4,10.1561/1500000090,recommender systems,1,1,0,0,0,1.0
+jaccard-t0.0,jaccard,0,10.1561/1500000090,recommender systems,1,1,0,0,0,0.5
+jaccard-t0.1,jaccard,0.1,10.1561/1500000090,recommender systems,1,1,0,0,0,0.5
+jaccard-t0.2,jaccard,0.2,10.1561/1500000090,recommender systems,1,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.1561/1500000090,recommender systems,1,1,0,0,0,0.5
+jaccard-t0.4,jaccard,0.4,10.1561/1500000090,recommender systems,1,1,0,0,0,0.5
+cosine-t0.0,cosine,0,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.782888212709
+cosine-t0.1,cosine,0.1,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.782888212709
+cosine-t0.2,cosine,0.2,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.782888212709
+cosine-t0.3,cosine,0.3,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.782888212709
+cosine-t0.4,cosine,0.4,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.782888212709
+jaccard-t0.0,jaccard,0,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.833333333333
+jaccard-t0.1,jaccard,0.1,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.833333333333
+jaccard-t0.2,jaccard,0.2,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.833333333333
+jaccard-t0.3,jaccard,0.3,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.833333333333
+jaccard-t0.4,jaccard,0.4,10.23919/indiacom61295.2024.10498707,software defect prediction,4,1,0,0,0,0.833333333333
+cosine-t0.0,cosine,0,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.615517221985
+cosine-t0.1,cosine,0.1,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.615517221985
+cosine-t0.2,cosine,0.2,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.615517221985
+cosine-t0.3,cosine,0.3,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.615517221985
+cosine-t0.4,cosine,0.4,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.615517221985
+jaccard-t0.0,jaccard,0,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.1,jaccard,0.1,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.2,jaccard,0.2,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.3,jaccard,0.3,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.571428571429
+jaccard-t0.4,jaccard,0.4,10.24090/tids.v1i1.12192,software defect prediction,1,1,0,0,0,0.571428571429
+cosine-t0.0,cosine,0,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.688048426934
+cosine-t0.1,cosine,0.1,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.688048426934
+cosine-t0.2,cosine,0.2,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.688048426934
+cosine-t0.3,cosine,0.3,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.688048426934
+cosine-t0.4,cosine,0.4,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.688048426934
+jaccard-t0.0,jaccard,0,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.1,jaccard,0.1,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.2,jaccard,0.2,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.3,jaccard,0.3,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.625
+jaccard-t0.4,jaccard,0.4,10.32604/cmc.2023.045522,software defect prediction,1,1,0,0,0,0.625
+cosine-t0.0,cosine,0,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.867474562359
+cosine-t0.1,cosine,0.1,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.867474562359
+cosine-t0.2,cosine,0.2,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.867474562359
+cosine-t0.3,cosine,0.3,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.867474562359
+cosine-t0.4,cosine,0.4,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.867474562359
+jaccard-t0.0,jaccard,0,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.714285714286
+jaccard-t0.1,jaccard,0.1,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.714285714286
+jaccard-t0.2,jaccard,0.2,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.714285714286
+jaccard-t0.3,jaccard,0.3,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.714285714286
+jaccard-t0.4,jaccard,0.4,10.32604/csse.2023.029689,software defect prediction,3,1,1,1,5,0.714285714286
+cosine-t0.0,cosine,0,10.3390/app131810466,software defect prediction,1,1,0,0,0,0.423603585066
+cosine-t0.1,cosine,0.1,10.3390/app131810466,software defect prediction,1,1,0,0,0,0.423603585066
+cosine-t0.2,cosine,0.2,10.3390/app131810466,software defect prediction,1,1,0,0,0,0.423603585066
+cosine-t0.3,cosine,0.3,10.3390/app131810466,software defect prediction,1,1,0,0,0,0.423603585066
+cosine-t0.4,cosine,0.4,10.3390/app131810466,software defect prediction,1,1,0,0,0,0.423603585066
+jaccard-t0.0,jaccard,0,10.3390/app131810466,software defect prediction,1,1,1,1,5,0.444444444444
+jaccard-t0.1,jaccard,0.1,10.3390/app131810466,software defect prediction,1,1,1,1,5,0.444444444444
+jaccard-t0.2,jaccard,0.2,10.3390/app131810466,software defect prediction,1,1,1,1,5,0.444444444444
+jaccard-t0.3,jaccard,0.3,10.3390/app131810466,software defect prediction,1,1,1,1,5,0.444444444444
+jaccard-t0.4,jaccard,0.4,10.3390/app131810466,software defect prediction,1,1,1,1,5,0.444444444444
+cosine-t0.0,cosine,0,10.3390/app14020846,database query optimization,2,1,0,0,0,0.543661503663
+cosine-t0.1,cosine,0.1,10.3390/app14020846,database query optimization,2,1,0,0,0,0.543661503663
+cosine-t0.2,cosine,0.2,10.3390/app14020846,database query optimization,2,1,0,0,0,0.543661503663
+cosine-t0.3,cosine,0.3,10.3390/app14020846,database query optimization,2,1,0,0,0,0.543661503663
+cosine-t0.4,cosine,0.4,10.3390/app14020846,database query optimization,2,1,0,0,0,0.543661503663
+jaccard-t0.0,jaccard,0,10.3390/app14020846,database query optimization,2,1,0,0,0,0.5
+jaccard-t0.1,jaccard,0.1,10.3390/app14020846,database query optimization,2,1,0,0,0,0.5
+jaccard-t0.2,jaccard,0.2,10.3390/app14020846,database query optimization,2,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.3390/app14020846,database query optimization,2,1,0,0,0,0.5
+jaccard-t0.4,jaccard,0.4,10.3390/app14020846,database query optimization,2,1,0,0,0,0.5
+cosine-t0.0,cosine,0,10.3390/e26030244,information retrieval,2,1,1,1,4,0.736550375623
+cosine-t0.1,cosine,0.1,10.3390/e26030244,information retrieval,2,1,1,1,4,0.736550375623
+cosine-t0.2,cosine,0.2,10.3390/e26030244,information retrieval,2,1,1,1,4,0.736550375623
+cosine-t0.3,cosine,0.3,10.3390/e26030244,information retrieval,2,1,1,1,4,0.736550375623
+cosine-t0.4,cosine,0.4,10.3390/e26030244,information retrieval,2,1,1,1,4,0.736550375623
+jaccard-t0.0,jaccard,0,10.3390/e26030244,information retrieval,2,1,0,0,0,0.5
+jaccard-t0.1,jaccard,0.1,10.3390/e26030244,information retrieval,2,1,0,0,0,0.5
+jaccard-t0.2,jaccard,0.2,10.3390/e26030244,information retrieval,2,1,0,0,0,0.5
+jaccard-t0.3,jaccard,0.3,10.3390/e26030244,information retrieval,2,1,0,0,0,0.5
+jaccard-t0.4,jaccard,0.4,10.3390/e26030244,information retrieval,2,1,0,0,0,0.5
+cosine-t0.0,cosine,0,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.820396985234
+cosine-t0.1,cosine,0.1,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.820396985234
+cosine-t0.2,cosine,0.2,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.820396985234
+cosine-t0.3,cosine,0.3,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.820396985234
+cosine-t0.4,cosine,0.4,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.820396985234
+jaccard-t0.0,jaccard,0,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.666666666667
+jaccard-t0.1,jaccard,0.1,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.666666666667
+jaccard-t0.2,jaccard,0.2,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.666666666667
+jaccard-t0.3,jaccard,0.3,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.666666666667
+jaccard-t0.4,jaccard,0.4,10.3390/math11112524,software defect prediction,5,1,0,0,0,0.666666666667

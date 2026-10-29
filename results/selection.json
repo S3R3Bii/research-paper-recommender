@@ -1,0 +1,9 @@
+{
+  "candidates": 10,
+  "exact_utility": "7/19",
+  "method": "jaccard",
+  "primary_metric": "mean hypothetical citation-proxy utility",
+  "threshold": 0.3,
+  "tie_break": "lower threshold then Jaccard",
+  "uses_held_labels": false
+}

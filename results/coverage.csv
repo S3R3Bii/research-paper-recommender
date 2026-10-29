@@ -1,0 +1,537 @@
+doi,partition,stratum,year,candidate_count,deposited_reference_count,in_corpus_older_references,evaluable
+10.1002/aaai.12050,development,recommender systems,2022,265,36,0,0
+10.1002/aisy.202000141,development,database query optimization,2020,118,45,0,0
+10.1002/for.2734,held,time series forecasting,2020,118,46,0,0
+10.1002/for.2998,held,time series forecasting,2023,352,7,0,0
+10.1002/for.3241,held,time series forecasting,2024,442,56,0,0
+10.1002/rnc.5056,held,distributed consensus,2020,118,32,0,0
+10.1002/rnc.5840,held,distributed consensus,2021,186,25,0,0
+10.1002/smr.2549,development,software defect prediction,2023,352,76,4,1
+10.1002/smr.2634,development,software defect prediction,2023,352,57,2,1
+10.1002/spe.3001,development,software defect prediction,2021,186,34,0,0
+10.1007/s00446-022-00436-8,held,distributed consensus,2022,265,32,0,0
+10.1007/s00477-019-01652-8,held,time series forecasting,2019,66,77,0,0
+10.1007/s00521-020-05509-y,held,machine translation,2020,118,16,0,0
+10.1007/s00521-023-08879-1,held,time series forecasting,2023,352,51,0,0
+10.1007/s00521-024-09705-y,held,machine translation,2024,442,31,1,1
+10.1007/s00521-024-10937-1,development,software defect prediction,2024,442,168,8,1
+10.1007/s00778-022-00777-7,development,database query optimization,2023,352,37,0,0
+10.1007/s00778-024-00888-3,development,database query optimization,2024,442,29,0,0
+10.1007/s10115-020-01542-4,development,database query optimization,2021,186,18,0,0
+10.1007/s10115-023-01906-6,development,recommender systems,2023,352,173,0,0
+10.1007/s10462-022-10229-x,development,recommender systems,2022,265,99,0,0
+10.1007/s10462-024-10989-8,held,time series forecasting,2024,442,80,0,0
+10.1007/s10515-024-00424-1,development,software defect prediction,2024,442,71,2,1
+10.1007/s10590-019-09229-6,held,machine translation,2019,66,17,0,0
+10.1007/s10590-019-09232-x,held,machine translation,2019,66,16,0,0
+10.1007/s10707-018-00335-w,development,database query optimization,2019,66,14,0,0
+10.1007/s10773-018-3940-y,development,database query optimization,2018,0,19,0,0
+10.1007/s10773-020-04561-7,development,database query optimization,2020,118,32,0,0
+10.1007/s10791-024-09442-9,development,information retrieval,2024,442,9,0,0
+10.1007/s10994-021-06017-3,held,graph neural networks,2021,186,64,0,0
+10.1007/s11063-020-10355-z,development,software defect prediction,2020,118,59,1,1
+10.1007/s11192-018-2861-0,development,information retrieval,2018,0,13,0,0
+10.1007/s11227-019-02970-y,held,distributed consensus,2019,66,16,0,0
+10.1007/s12597-024-00832-7,development,software defect prediction,2024,442,18,0,0
+10.1007/s12599-018-0517-5,development,recommender systems,2018,0,26,0,0
+10.1007/s13198-024-02407-7,development,software defect prediction,2024,442,34,0,0
+10.1007/s40314-022-01765-x,held,time series forecasting,2022,265,23,0,0
+10.1007/s40747-023-01200-6,held,graph neural networks,2023,352,37,0,0
+10.1007/s41066-020-00220-8,held,time series forecasting,2020,118,66,0,0
+10.1007/s41870-019-00299-6,development,software defect prediction,2019,66,25,0,0
+10.1016/j.asoc.2021.107169,held,graph neural networks,2021,186,25,0,0
+10.1016/j.automatica.2021.110046,held,distributed consensus,2022,265,18,0,0
+10.1016/j.automatica.2022.110322,held,distributed consensus,2022,265,8,0,0
+10.1016/j.cor.2020.104983,development,database query optimization,2020,118,16,0,0
+10.1016/j.crhy.2019.05.014,development,recommender systems,2019,66,13,0,0
+10.1016/j.eng.2021.03.023,held,machine translation,2022,265,14,0,0
+10.1016/j.epsr.2020.106547,held,graph neural networks,2020,118,7,0,0
+10.1016/j.eswa.2020.113680,held,time series forecasting,2020,118,38,0,0
+10.1016/j.fss.2018.12.019,development,database query optimization,2019,66,10,0,0
+10.1016/j.ifacol.2018.12.017,held,distributed consensus,2018,0,14,0,0
+10.1016/j.ifacol.2019.12.195,held,distributed consensus,2019,66,11,0,0
+10.1016/j.ifacol.2020.12.1536,held,distributed consensus,2020,118,12,0,0
+10.1016/j.ifacol.2023.10.903,held,distributed consensus,2023,352,15,0,0
+10.1016/j.ins.2021.10.006,held,machine translation,2021,186,11,0,0
+10.1016/j.ins.2022.02.007,held,time series forecasting,2022,265,31,0,0
+10.1016/j.ipm.2019.102181,held,machine translation,2020,118,9,0,0
+10.1016/j.isatra.2021.10.015,held,distributed consensus,2022,265,27,0,0
+10.1016/j.jer.2023.10.038,development,software defect prediction,2023,352,32,1,1
+10.1016/j.knosys.2022.108598,held,machine translation,2022,265,32,0,0
+10.1016/j.neucom.2019.11.067,development,software defect prediction,2020,118,45,0,0
+10.1016/j.neucom.2022.01.003,held,graph neural networks,2022,265,9,0,0
+10.1016/j.neucom.2022.10.067,held,time series forecasting,2023,352,52,0,0
+10.1016/j.neunet.2020.07.008,held,graph neural networks,2020,118,17,0,0
+10.1016/j.patcog.2021.108132,held,graph neural networks,2021,186,27,0,0
+10.1016/j.physa.2021.126134,held,time series forecasting,2021,186,26,0,0
+10.1016/j.procs.2023.01.002,development,software defect prediction,2023,352,16,0,0
+10.1016/j.sigpro.2023.109307,held,distributed consensus,2024,442,19,0,0
+10.1017/s0269888918000024,held,time series forecasting,2018,0,55,0,0
+10.1017/s1471068419000097,development,information retrieval,2019,66,11,0,0
+10.1038/s41551-021-00758-1,held,machine translation,2021,186,9,0,0
+10.1038/s41598-023-42917-1,held,time series forecasting,2023,352,20,0,0
+10.1038/s43586-024-00294-7,held,graph neural networks,2024,442,50,0,0
+10.1038/s44172-023-00142-8,held,time series forecasting,2024,442,56,0,0
+10.1039/d4sc04554h,held,graph neural networks,2024,442,33,0,0
+10.1049/iet-sen.2017.0148,development,software defect prediction,2018,0,140,0,0
+10.1049/iet-sen.2019.0149,development,software defect prediction,2020,118,27,1,1
+10.1051/itmconf/20245902005,held,time series forecasting,2024,442,4,0,0
+10.1063/5.0142134,development,software defect prediction,2023,352,2,0,0
+10.1063/5.0148412,development,recommender systems,2023,352,6,0,0
+10.1063/5.0164406,development,software defect prediction,2023,352,9,0,0
+10.1063/5.0178913,development,software defect prediction,2023,352,11,1,1
+10.1075/aila.24020.yua,held,machine translation,2024,442,34,0,0
+10.1075/babel.00332.she,held,machine translation,2023,352,4,0,0
+10.1075/ijcl.19127.luo,held,machine translation,2022,265,28,0,0
+10.1075/ts.22035.ass,held,machine translation,2023,352,28,0,0
+10.1080/01605682.2024.2395315,held,time series forecasting,2024,442,23,0,0
+10.1080/01621459.2023.2279695,development,recommender systems,2024,442,97,1,1
+10.1080/0907676x.2023.2292571,held,machine translation,2023,352,31,0,0
+10.1080/10350330.2024.2366288,held,machine translation,2024,442,2,0,0
+10.1080/1206212x.2024.2404087,held,graph neural networks,2024,442,18,1,1
+10.1080/20539320.2022.2143655,held,machine translation,2022,265,10,0,0
+10.1088/1742-6596/1569/2/022001,development,software defect prediction,2020,118,10,0,0
+10.1088/1742-6596/1651/1/012122,held,machine translation,2020,118,7,0,0
+10.1088/1742-6596/1861/1/012088,held,machine translation,2021,186,0,0,0
+10.1088/1742-6596/1881/4/042023,held,machine translation,2021,186,8,0,0
+10.1088/1742-6596/2131/2/022110,held,time series forecasting,2021,186,2,0,0
+10.1088/1742-6596/2171/1/012008,development,software defect prediction,2022,265,1,0,0
+10.1088/1757-899x/407/1/012154,held,time series forecasting,2018,0,5,0,0
+10.1103/physrevresearch.4.043131,held,graph neural networks,2022,265,25,0,0
+10.1108/dta-08-2019-0135,development,recommender systems,2020,118,17,1,1
+10.1108/k-06-2017-0196,development,recommender systems,2018,0,114,0,0
+10.1109/access.2018.2890733,development,software defect prediction,2019,66,51,0,0
+10.1109/access.2019.2926888,held,distributed consensus,2019,66,30,0,0
+10.1109/access.2020.3004879,held,machine translation,2020,118,14,0,0
+10.1109/access.2021.3049544,development,database query optimization,2021,186,29,0,0
+10.1109/access.2021.3054948,development,software defect prediction,2021,186,88,1,1
+10.1109/access.2021.3063715,held,machine translation,2021,186,17,0,0
+10.1109/access.2022.3141589,development,database query optimization,2022,265,17,1,1
+10.1109/access.2022.3176634,held,graph neural networks,2022,265,30,1,1
+10.1109/access.2022.3211978,development,software defect prediction,2022,265,51,4,1
+10.1109/access.2022.3217480,development,software defect prediction,2022,265,45,2,1
+10.1109/access.2024.3456913,held,graph neural networks,2024,442,72,0,0
+10.1109/acit.2018.8672584,development,database query optimization,2018,0,4,0,0
+10.1109/acssc.2018.8645465,development,information retrieval,2018,0,19,0,0
+10.1109/aero55745.2023.10115595,held,distributed consensus,2023,352,12,0,0
+10.1109/aiam50918.2020.00022,development,database query optimization,2020,118,0,0,0
+10.1109/aicit59054.2023.10277892,held,machine translation,2023,352,6,0,0
+10.1109/aiic54368.2022.9914586,development,software defect prediction,2022,265,23,0,0
+10.1109/aitc.2019.8921374,development,software defect prediction,2019,66,4,0,0
+10.1109/allerton.2018.8635839,held,distributed consensus,2018,0,14,0,0
+10.1109/asonam.2018.8508703,held,distributed consensus,2018,0,3,0,0
+10.1109/besc64747.2024.10780468,held,graph neural networks,2024,442,17,1,1
+10.1109/bigcomp.2019.8679425,development,database query optimization,2019,66,4,0,0
+10.1109/bigdata.2018.8622401,development,database query optimization,2018,0,16,0,0
+10.1109/bigdata47090.2019.9006098,held,distributed consensus,2019,66,10,0,0
+10.1109/bigdata52589.2021.9672062,held,graph neural networks,2021,186,17,0,0
+10.1109/bigdata55660.2022.10020338,development,database query optimization,2022,265,18,1,1
+10.1109/bigdata55660.2022.10020349,held,time series forecasting,2022,265,11,0,0
+10.1109/bigdata59044.2023.10386792,held,graph neural networks,2023,352,24,0,0
+10.1109/biosmart54244.2021.9677869,development,software defect prediction,2021,186,27,0,0
+10.1109/cbi52690.2021.10059,development,recommender systems,2021,186,36,0,0
+10.1109/ccict56684.2022.00032,development,recommender systems,2022,265,5,0,0
+10.1109/ccis.2018.8691206,development,database query optimization,2018,0,17,0,0
+10.1109/ccta.2018.8511492,held,distributed consensus,2018,0,18,0,0
+10.1109/ccta49430.2022.9966089,held,distributed consensus,2022,265,9,0,0
+10.1109/ccwc51732.2021.9376080,held,distributed consensus,2021,186,23,0,0
+10.1109/cdc.2018.8619512,held,distributed consensus,2018,0,21,0,0
+10.1109/cdc49753.2023.10383363,held,distributed consensus,2023,352,27,0,0
+10.1109/cdc51059.2022.9992506,held,distributed consensus,2022,265,30,1,1
+10.1109/cist56084.2023.10409946,held,time series forecasting,2023,352,7,0,0
+10.1109/clei47609.2019.235091,development,recommender systems,2019,66,6,0,0
+10.1109/comitcon.2019.8862444,development,software defect prediction,2019,66,12,0,0
+10.1109/compsac.2019.00072,held,distributed consensus,2019,66,18,0,0
+10.1109/conf-spml54095.2021.00015,development,recommender systems,2021,186,11,1,1
+10.1109/conit51480.2021.9498451,held,time series forecasting,2021,186,1,0,0
+10.1109/cscloud-edgecom54986.2022.00037,held,machine translation,2022,265,39,0,0
+10.1109/csnt54456.2022.9787607,development,software defect prediction,2022,265,18,0,0
+10.1109/cvpr46437.2021.00937,held,graph neural networks,2021,186,25,0,0
+10.1109/deeptest59248.2023.00008,held,machine translation,2023,352,11,0,0
+10.1109/docs55193.2022.9967755,development,software defect prediction,2022,265,9,0,0
+10.1109/dsaa60987.2023.10302495,held,graph neural networks,2023,352,13,0,0
+10.1109/dsaa60987.2023.10302600,held,graph neural networks,2023,352,30,0,0
+10.1109/dslw51110.2021.9523412,held,graph neural networks,2021,186,24,3,1
+10.1109/dslw53931.2022.9820575,held,graph neural networks,2022,265,21,1,1
+10.1109/dsmp47368.2020.9204311,held,time series forecasting,2020,118,3,0,0
+10.1109/dsn-s50200.2020.00023,held,distributed consensus,2020,118,7,0,0
+10.1109/dyspan.2018.8610467,held,distributed consensus,2018,0,18,0,0
+10.1109/eeccis.2018.8692874,development,software defect prediction,2018,0,8,0,0
+10.1109/eiecs59936.2023.10435503,held,time series forecasting,2023,352,10,0,0
+10.1109/eiecs63941.2024.10800366,development,database query optimization,2024,442,11,0,0
+10.1109/fie58773.2023.10343409,development,database query optimization,2023,352,32,0,0
+10.1109/gcaiot63427.2024.10833588,held,distributed consensus,2024,442,24,0,0
+10.1109/globalsip.2018.8645966,held,distributed consensus,2018,0,24,0,0
+10.1109/glosic.2018.8570100,development,information retrieval,2018,0,7,0,0
+10.1109/hpcc-dss-smartcity-dependsys53884.2021.00148,held,distributed consensus,2021,186,17,0,0
+10.1109/hpcc-dss-smartcity-dependsys53884.2021.00343,development,database query optimization,2021,186,18,0,0
+10.1109/i-smac58438.2023.10290523,development,software defect prediction,2023,352,10,1,1
+10.1109/i2ct51068.2021.9417911,development,database query optimization,2021,186,3,0,0
+10.1109/i3ceet61722.2024.10994067,held,time series forecasting,2024,442,21,0,0
+10.1109/ibcast51254.2021.9393250,development,software defect prediction,2021,186,14,0,0
+10.1109/ic3i59117.2023.10397780,held,machine translation,2023,352,5,0,0
+10.1109/icaiccit60255.2023.10466047,development,software defect prediction,2023,352,11,2,1
+10.1109/icassp.2018.8461529,held,distributed consensus,2018,0,22,0,0
+10.1109/icassp.2019.8682975,held,graph neural networks,2019,66,16,0,0
+10.1109/icassp40776.2020.9053792,held,distributed consensus,2020,118,12,0,0
+10.1109/icassp40776.2020.9054424,held,graph neural networks,2020,118,14,0,0
+10.1109/icbk.2019.00034,development,database query optimization,2019,66,8,0,0
+10.1109/iccc47050.2019.9064412,development,software defect prediction,2019,66,32,0,0
+10.1109/icccs55155.2022.9846105,development,database query optimization,2022,265,3,0,0
+10.1109/iccea53728.2021.00073,development,software defect prediction,2021,186,15,0,0
+10.1109/iccect60629.2024.10545893,development,database query optimization,2024,442,4,0,0
+10.1109/iccit60459.2023.10441199,development,database query optimization,2023,352,10,0,0
+10.1109/iccit62134.2024.10701182,development,software defect prediction,2024,442,29,1,1
+10.1109/iccke65377.2024.10874478,held,time series forecasting,2024,442,17,0,0
+10.1109/iccmc.2019.8819788,held,machine translation,2019,66,6,0,0
+10.1109/iccpct61902.2024.10673411,development,software defect prediction,2024,442,14,0,0
+10.1109/iccs45141.2019.9065562,development,information retrieval,2019,66,2,0,0
+10.1109/icctit60726.2023.10435711,development,software defect prediction,2023,352,24,2,1
+10.1109/icdabi60145.2023.10629335,development,software defect prediction,2023,352,23,0,0
+10.1109/icdacai65086.2024.00020,held,machine translation,2024,442,4,0,0
+10.1109/icdacai65086.2024.00110,development,database query optimization,2024,442,13,0,0
+10.1109/icdcc62744.2024.10961134,held,machine translation,2024,442,5,0,0
+10.1109/icde55515.2023.00214,development,database query optimization,2023,352,40,0,0
+10.1109/icde60146.2024.00035,development,database query optimization,2024,442,28,0,0
+10.1109/icdm54844.2022.00049,held,graph neural networks,2022,265,12,0,0
+10.1109/icdm54844.2022.00110,held,graph neural networks,2022,265,8,0,0
+10.1109/icdm58522.2023.00180,held,time series forecasting,2023,352,23,0,0
+10.1109/icdm59182.2024.00084,held,graph neural networks,2024,442,4,0,0
+10.1109/icdm59182.2024.00095,held,graph neural networks,2024,442,12,0,0
+10.1109/icdt57929.2023.10151116,held,distributed consensus,2023,352,7,0,0
+10.1109/iceca52323.2021.9675890,development,database query optimization,2021,186,8,0,0
+10.1109/icedcs60513.2023.00131,development,database query optimization,2023,352,9,1,1
+10.1109/icemce60359.2023.10490819,development,database query optimization,2023,352,16,1,1
+10.1109/icemce60359.2023.10490874,development,software defect prediction,2023,352,12,0,0
+10.1109/icemi52946.2021.9679501,held,distributed consensus,2021,186,6,0,0
+10.1109/icetietr.2018.8529006,development,database query optimization,2018,0,11,0,0
+10.1109/iciccsp53532.2022.9862424,held,time series forecasting,2022,265,21,0,0
+10.1109/icicn.2019.8834978,held,distributed consensus,2019,66,21,0,0
+10.1109/icict50816.2021.9358682,held,time series forecasting,2021,186,7,0,0
+10.1109/icimtech63123.2024.10780854,development,software defect prediction,2024,442,18,0,0
+10.1109/iciteed.2019.8929990,held,time series forecasting,2019,66,4,0,0
+10.1109/icivc.2018.8492789,development,database query optimization,2018,0,7,0,0
+10.1109/icmeae55138.2021.00026,development,software defect prediction,2021,186,8,1,1
+10.1109/icmla51294.2020.00140,held,time series forecasting,2020,118,19,1,1
+10.1109/icmla55696.2022.00270,held,graph neural networks,2022,265,7,0,0
+10.1109/icodsa58501.2023.10277136,held,machine translation,2023,352,12,0,0
+10.1109/icodse56892.2022.9971813,development,software defect prediction,2022,265,14,0,0
+10.1109/icodt255437.2022.9787439,development,software defect prediction,2022,265,16,1,1
+10.1109/icoei48184.2020.9142909,development,software defect prediction,2020,118,11,0,0
+10.1109/icomet.2019.8673410,development,recommender systems,2019,66,33,0,0
+10.1109/icoseit60086.2024.10497461,development,software defect prediction,2024,442,20,1,1
+10.1109/icpeca53709.2022.9719293,development,database query optimization,2022,265,6,0,0
+10.1109/icpr48806.2021.9412278,held,graph neural networks,2021,186,13,0,0
+10.1109/icpr56361.2022.9956478,held,graph neural networks,2022,265,17,0,0
+10.1109/icps49255.2021.9468120,held,distributed consensus,2021,186,19,0,0
+10.1109/icsc59802.2024.00049,development,database query optimization,2024,442,18,0,0
+10.1109/icscc.2019.8843685,held,machine translation,2019,66,10,0,0
+10.1109/icse43902.2021.00050,development,software defect prediction,2021,186,70,2,1
+10.1109/icse48619.2023.00174,development,database query optimization,2023,352,30,1,1
+10.1109/icse48619.2023.00175,development,database query optimization,2023,352,22,0,0
+10.1109/icseng.2018.8638179,held,time series forecasting,2018,0,28,0,0
+10.1109/icses63760.2024.10910437,held,time series forecasting,2024,442,10,0,0
+10.1109/icsip52628.2021.9688915,held,distributed consensus,2021,186,14,0,0
+10.1109/icsp51882.2021.9408940,development,recommender systems,2021,186,12,0,0
+10.1109/icwapr63074.2024.10870496,held,graph neural networks,2024,442,13,0,0
+10.1109/ieeeconf44664.2019.9048767,held,graph neural networks,2019,66,10,0,0
+10.1109/iicaiet55139.2022.9936787,held,distributed consensus,2022,265,10,0,0
+10.1109/ijcnn.2018.8489522,held,time series forecasting,2018,0,25,0,0
+10.1109/ijcnn52387.2021.9533734,held,machine translation,2021,186,20,0,0
+10.1109/ijcnn55064.2022.9892241,held,graph neural networks,2022,265,14,0,0
+10.1109/ijcnn55064.2022.9892899,held,machine translation,2022,265,23,0,0
+10.1109/imcec.2018.8469696,development,database query optimization,2018,0,1,0,0
+10.1109/infoct.2019.8711416,development,recommender systems,2019,66,18,0,0
+10.1109/iri.2018.00047,development,software defect prediction,2018,0,21,0,0
+10.1109/iri.2019.00048,development,database query optimization,2019,66,9,0,0
+10.1109/isdfs49300.2020.9116418,development,database query optimization,2020,118,12,0,0
+10.1109/isemantic59612.2023.10295285,held,machine translation,2023,352,2,0,0
+10.1109/isgteurope.2018.8571893,held,distributed consensus,2018,0,8,0,0
+10.1109/isit.2019.8849444,development,information retrieval,2019,66,17,0,0
+10.1109/isit45174.2021.9518183,development,information retrieval,2021,186,50,2,1
+10.1109/issrew55968.2022.00037,development,software defect prediction,2022,265,8,0,0
+10.1109/issrew60843.2023.00044,development,software defect prediction,2023,352,6,0,0
+10.1109/itms.2018.8552953,development,database query optimization,2018,0,6,0,0
+10.1109/itnec48623.2020.9084745,development,software defect prediction,2020,118,10,0,0
+10.1109/jiot.2022.3229746,held,distributed consensus,2023,352,32,0,0
+10.1109/jsait.2022.3188610,development,information retrieval,2022,265,54,2,1
+10.1109/lsp.2020.3003237,held,distributed consensus,2020,118,27,0,0
+10.1109/lsp.2020.3029706,held,distributed consensus,2020,118,28,0,0
+10.1109/med51440.2021.9480355,held,distributed consensus,2021,186,18,1,1
+10.1109/medai59581.2023.00033,held,graph neural networks,2023,352,11,1,1
+10.1109/milcom61039.2024.10773878,held,distributed consensus,2024,442,15,0,0
+10.1109/mipro60963.2024.10569204,development,database query optimization,2024,442,8,0,0
+10.1109/mis.2024.3398190,development,recommender systems,2024,442,20,0,0
+10.1109/mlsp49062.2020.9231732,held,graph neural networks,2020,118,13,0,0
+10.1109/msp.2020.3016143,held,graph neural networks,2020,118,16,0,0
+10.1109/ngdn61651.2024.10744063,development,database query optimization,2024,442,9,1,1
+10.1109/nir52917.2021.9666110,development,software defect prediction,2021,186,43,1,1
+10.1109/pdgc50313.2020.9315754,development,software defect prediction,2020,118,13,0,0
+10.1109/pgsret.2018.8685975,held,distributed consensus,2018,0,15,0,0
+10.1109/pic.2018.8706304,development,software defect prediction,2018,0,7,0,0
+10.1109/qcnc62729.2024.00015,held,distributed consensus,2024,442,31,0,0
+10.1109/rams51457.2022.9893986,development,software defect prediction,2022,265,5,0,0
+10.1109/saner56733.2023.00114,development,software defect prediction,2023,352,19,1,1
+10.1109/sbesc56799.2022.9965153,held,distributed consensus,2022,265,28,0,0
+10.1109/sceecs61402.2024.10482217,held,time series forecasting,2024,442,13,0,0
+10.1109/seai59139.2023.10217656,held,graph neural networks,2023,352,7,0,0
+10.1109/seatuc.2018.8788881,development,software defect prediction,2018,0,2,0,0
+10.1109/smartgencon56628.2022.10083651,held,time series forecasting,2022,265,8,0,0
+10.1109/smartworld-uic-atc-scalcom-iop-sci.2019.00244,development,software defect prediction,2019,66,10,0,0
+10.1109/smartworld.2018.00266,development,software defect prediction,2018,0,25,0,0
+10.1109/smc53654.2022.9945543,held,time series forecasting,2022,265,10,0,0
+10.1109/tac.2019.2915747,held,distributed consensus,2020,118,29,0,0
+10.1109/tai.2022.3179681,held,graph neural networks,2024,442,27,0,0
+10.1109/taslp.2018.2860287,held,machine translation,2018,0,38,0,0
+10.1109/taslp.2021.3138714,held,machine translation,2022,265,29,1,1
+10.1109/tcns.2017.2660242,held,distributed consensus,2018,0,18,0,0
+10.1109/tcyb.2017.2726102,held,distributed consensus,2018,0,37,0,0
+10.1109/tcyb.2022.3164696,held,graph neural networks,2023,352,27,0,0
+10.1109/tfuzz.2019.2922152,held,time series forecasting,2020,118,82,0,0
+10.1109/tfuzz.2023.3309811,held,time series forecasting,2024,442,57,0,0
+10.1109/tit.2019.2935440,development,information retrieval,2019,66,33,0,0
+10.1109/tit.2019.2948845,development,information retrieval,2020,118,34,1,1
+10.1109/tit.2021.3136583,development,information retrieval,2022,265,61,2,1
+10.1109/tkde.2022.3153651,development,database query optimization,2022,265,22,0,0
+10.1109/tnnls.2022.3184967,held,graph neural networks,2024,442,43,0,0
+10.1109/tnnls.2022.3220548,held,graph neural networks,2024,442,30,0,0
+10.1109/tpami.2021.3111054,held,graph neural networks,2022,265,45,1,1
+10.1109/tpami.2021.3134200,held,graph neural networks,2022,265,26,0,0
+10.1109/tr.2020.3047396,development,software defect prediction,2021,186,37,1,1
+10.1109/tro.2022.3228132,held,distributed consensus,2023,352,49,0,0
+10.1109/trustcom/bigdatase.2018.00197,development,database query optimization,2018,0,14,0,0
+10.1109/tse.2018.2877612,development,software defect prediction,2020,118,88,0,0
+10.1109/tsipn.2018.2881718,held,distributed consensus,2019,66,38,0,0
+10.1109/tsp.2020.3033962,held,graph neural networks,2020,118,31,1,1
+10.1109/tsp.2021.3087905,held,graph neural networks,2021,186,40,0,0
+10.1109/tsp.2021.3092336,held,graph neural networks,2021,186,33,2,1
+10.1109/tvcg.2021.3052580,held,distributed consensus,2022,265,77,0,0
+10.1109/vtc2020-fall49728.2020.9348508,held,distributed consensus,2020,118,14,0,0
+10.1109/wcncw49093.2021.9420035,held,distributed consensus,2021,186,22,0,0
+10.1111/coin.12643,held,machine translation,2024,442,31,2,1
+10.1111/exsy.12303,development,recommender systems,2018,0,15,0,0
+10.1117/12.2690068,held,time series forecasting,2023,352,8,0,0
+10.1117/12.3023467,held,time series forecasting,2024,442,13,0,0
+10.1145/3170427.3186493,development,information retrieval,2018,0,8,0,0
+10.1145/3176349.3176898,development,information retrieval,2018,0,15,0,0
+10.1145/3183713.3197389,development,recommender systems,2018,0,23,0,0
+10.1145/3184558.3186949,development,recommender systems,2018,0,2,0,0
+10.1145/3190616,development,recommender systems,2018,0,89,0,0
+10.1145/3209219.3209270,development,recommender systems,2018,0,8,0,0
+10.1145/3209219.3209272,development,recommender systems,2018,0,7,0,0
+10.1145/3209219.3213591,development,recommender systems,2018,0,5,0,0
+10.1145/3209978.3210016,development,recommender systems,2018,0,31,0,0
+10.1145/3209978.3210186,development,information retrieval,2018,0,87,0,0
+10.1145/3219788.3219806,development,database query optimization,2018,0,0,0,0
+10.1145/3229345.3229350,development,recommender systems,2018,0,40,0,0
+10.1145/3240323.3241620,development,recommender systems,2018,0,20,0,0
+10.1145/3243734.3243821,development,information retrieval,2018,0,27,0,0
+10.1145/3274784.3274788,development,information retrieval,2018,0,35,0,0
+10.1145/3293339.3293341,held,machine translation,2018,0,1,0,0
+10.1145/3293475.3293487,development,information retrieval,2018,0,9,0,0
+10.1145/3294052.3322190,development,database query optimization,2019,66,93,0,0
+10.1145/3297280.3297358,development,information retrieval,2019,66,13,0,0
+10.1145/3297662.3365823,development,database query optimization,2019,66,16,0,0
+10.1145/3298689.3346956,development,recommender systems,2019,66,25,0,0
+10.1145/3299869.3300104,development,database query optimization,2019,66,6,0,0
+10.1145/3308560.3320091,development,recommender systems,2019,66,2,1,1
+10.1145/3324884.3416612,development,software defect prediction,2020,118,45,0,0
+10.1145/3331184.3331415,development,information retrieval,2019,66,2,0,0
+10.1145/3335484.3335499,development,database query optimization,2019,66,10,1,1
+10.1145/3338533.3372212,development,information retrieval,2019,66,9,0,0
+10.1145/3347861,development,database query optimization,2019,66,5,0,0
+10.1145/3350755.3400215,held,distributed consensus,2020,118,4,0,0
+10.1145/3352411.3352412,development,software defect prediction,2019,66,11,0,0
+10.1145/3366424.3383111,held,graph neural networks,2020,118,2,0,0
+10.1145/3368926.3369711,development,software defect prediction,2019,66,10,0,0
+10.1145/3377811.3380389,development,software defect prediction,2020,118,51,1,1
+10.1145/3377813.3381367,development,software defect prediction,2020,118,30,0,0
+10.1145/3383313.3412225,development,recommender systems,2020,118,14,0,0
+10.1145/3387940.3391463,development,software defect prediction,2020,118,28,0,0
+10.1145/3394486.3403049,held,graph neural networks,2020,118,9,0,0
+10.1145/3394486.3403076,held,graph neural networks,2020,118,12,0,0
+10.1145/3394486.3406463,development,recommender systems,2020,118,6,0,0
+10.1145/3394486.3406712,held,graph neural networks,2020,118,2,0,0
+10.1145/3397271.3401092,held,graph neural networks,2020,118,20,0,0
+10.1145/3397271.3401180,development,recommender systems,2020,118,31,0,0
+10.1145/3398682.3399159,held,graph neural networks,2020,118,4,0,0
+10.1145/3404835.3462798,development,information retrieval,2021,186,40,0,0
+10.1145/3405962.3405969,development,information retrieval,2020,118,12,0,0
+10.1145/3407190,development,recommender systems,2020,118,118,1,1
+10.1145/3409256.3409830,development,information retrieval,2020,118,23,0,0
+10.1145/3416506.3423576,held,machine translation,2020,118,27,0,0
+10.1145/3416508.3417114,development,software defect prediction,2020,118,37,1,1
+10.1145/3428279,development,database query optimization,2020,118,43,0,0
+10.1145/3430984.3431061,development,database query optimization,2021,186,1,0,0
+10.1145/3437963.3441663,held,graph neural networks,2021,186,2,0,0
+10.1145/3437963.3441673,held,graph neural networks,2021,186,5,0,0
+10.1145/3442381.3449952,held,graph neural networks,2021,186,17,1,1
+10.1145/3447548.3467256,held,graph neural networks,2021,186,12,1,1
+10.1145/3447548.3467298,development,recommender systems,2021,186,20,0,0
+10.1145/3448016.3452834,held,distributed consensus,2021,186,25,0,0
+10.1145/3454127.3456579,development,database query optimization,2021,186,11,0,0
+10.1145/3459637.3482392,held,graph neural networks,2021,186,36,0,0
+10.1145/3460120.3484565,held,graph neural networks,2021,186,20,0,0
+10.1145/3460231.3474601,development,recommender systems,2021,186,10,0,0
+10.1145/3465084.3467914,held,distributed consensus,2021,186,25,0,0
+10.1145/3465084.3467947,held,distributed consensus,2021,186,21,0,0
+10.1145/3465998.3466006,development,database query optimization,2021,186,19,0,0
+10.1145/3474198.3478215,development,software defect prediction,2021,186,16,0,0
+10.1145/3476415.3476417,development,information retrieval,2021,186,42,0,0
+10.1145/3485447.3512187,held,graph neural networks,2022,265,19,1,1
+10.1145/3485447.3512193,held,graph neural networks,2022,265,14,0,0
+10.1145/3487757.3490921,development,recommender systems,2021,186,13,0,0
+10.1145/3488560.3501396,held,graph neural networks,2022,265,19,0,0
+10.1145/3490354.3494387,held,time series forecasting,2021,186,14,1,1
+10.1145/3490486.3538354,development,recommender systems,2022,265,25,0,0
+10.1145/3498366.3505798,development,information retrieval,2022,265,27,0,0
+10.1145/3498366.3505841,development,recommender systems,2022,265,11,1,1
+10.1145/3502733,held,graph neural networks,2022,265,23,0,0
+10.1145/3503161.3548111,held,graph neural networks,2022,265,19,1,1
+10.1145/3510374.3510379,held,graph neural networks,2021,186,9,0,0
+10.1145/3511808.3557356,held,graph neural networks,2022,265,20,1,1
+10.1145/3511808.3557467,held,graph neural networks,2022,265,20,1,1
+10.1145/3514105.3514120,development,recommender systems,2022,265,14,0,0
+10.1145/3514221.3520257,development,database query optimization,2022,265,9,0,0
+10.1145/3523227.3547375,development,recommender systems,2022,265,23,1,1
+10.1145/3527546.3527576,development,information retrieval,2021,186,3,0,0
+10.1145/3534678.3539111,held,graph neural networks,2022,265,18,0,0
+10.1145/3534678.3539343,held,graph neural networks,2022,265,30,0,0
+10.1145/3539618.3591871,development,information retrieval,2023,352,2,0,0
+10.1145/3539618.3591884,development,recommender systems,2023,352,27,0,0
+10.1145/3539618.3594249,development,information retrieval,2023,352,31,0,0
+10.1145/3542700.3542702,development,database query optimization,2022,265,3,0,0
+10.1145/3543507.3583384,development,information retrieval,2023,352,33,0,0
+10.1145/3543507.3583419,held,graph neural networks,2023,352,21,1,1
+10.1145/3543895.3543924,development,software defect prediction,2022,265,28,0,0
+10.1145/3544109.3544387,development,database query optimization,2022,265,6,0,0
+10.1145/3555228.3555269,development,software defect prediction,2022,265,16,0,0
+10.1145/3565472.3595617,development,recommender systems,2023,352,5,0,0
+10.1145/3566097.3568345,held,graph neural networks,2023,352,43,0,0
+10.1145/3568562.3568648,development,database query optimization,2022,265,10,0,0
+10.1145/3573128.3609340,development,information retrieval,2023,352,12,0,0
+10.1145/3580305.3599177,held,graph neural networks,2023,352,10,0,0
+10.1145/3580305.3599275,held,graph neural networks,2023,352,11,0,0
+10.1145/3583780.3615092,held,graph neural networks,2023,352,19,0,0
+10.1145/3589250.3596148,development,database query optimization,2023,352,15,0,0
+10.1145/3589334.3645567,development,database query optimization,2024,442,26,0,0
+10.1145/3594315.3594371,development,software defect prediction,2023,352,24,1,1
+10.1145/3597926.3598044,development,database query optimization,2023,352,16,1,1
+10.1145/3616855.3635806,held,time series forecasting,2024,442,10,0,0
+10.1145/3616901.3616929,development,software defect prediction,2023,352,18,0,0
+10.1145/3626772.3657995,development,information retrieval,2024,442,2,0,0
+10.1145/3626772.3661380,development,information retrieval,2024,442,30,0,0
+10.1145/3627673.3679617,development,recommender systems,2024,442,27,0,0
+10.1145/3627826,development,recommender systems,2024,442,56,1,1
+10.1145/3631700.3664915,development,recommender systems,2024,442,19,0,0
+10.1145/3640457.3687093,development,recommender systems,2024,442,10,0,0
+10.1145/3640457.3688020,development,recommender systems,2024,442,10,0,0
+10.1145/3643035,held,time series forecasting,2024,442,19,0,0
+10.1145/3651607,development,database query optimization,2024,442,7,0,0
+10.1145/3663976.3664241,held,time series forecasting,2024,442,12,0,0
+10.1145/3675888.3676109,held,machine translation,2024,442,4,0,0
+10.1145/3687302,held,distributed consensus,2024,442,33,0,0
+10.1145/3701268.3701286,held,machine translation,2024,442,15,0,0
+10.1145/3703323.3704283,held,graph neural networks,2024,442,20,2,1
+10.1155/2020/8859452,held,machine translation,2020,118,4,0,0
+10.1155/2021/5935958,held,machine translation,2021,186,24,1,1
+10.1155/2021/6118113,development,database query optimization,2021,186,27,1,1
+10.1155/2022/4314734,held,distributed consensus,2022,265,18,0,0
+10.1155/2022/9121636,held,machine translation,2022,265,4,0,0
+10.1155/2023/9898413,held,machine translation,2023,352,1,1,1
+10.1162/tacl_a_00691,held,machine translation,2024,442,35,0,0
+10.1162/tacl_a_00711,held,machine translation,2024,442,22,0,0
+10.1162/tacl_a_00714,held,machine translation,2024,442,72,0,0
+10.1177/0142331218785673,held,distributed consensus,2018,0,25,0,0
+10.1177/0309133318770972,development,information retrieval,2018,0,25,0,0
+10.12677/ml.2024.1210897,held,machine translation,2024,442,0,0,0
+10.12677/ml.2024.125381,held,machine translation,2024,442,2,0,0
+10.12677/sea.2023.126091,development,software defect prediction,2023,352,17,0,0
+10.1365/s40702-018-00457-7,held,distributed consensus,2018,0,4,0,0
+10.1371/journal.pone.0247444,development,software defect prediction,2021,186,35,0,0
+10.1371/journal.pone.0306291,development,database query optimization,2024,442,21,0,0
+10.14778/3229863.3229878,held,time series forecasting,2018,0,23,0,0
+10.14778/3503585.3503600,development,database query optimization,2021,186,21,0,0
+10.14778/3598581.3598599,development,database query optimization,2023,352,25,0,0
+10.14778/3611540.3611544,development,database query optimization,2023,352,23,1,1
+10.14778/3611540.3611607,development,database query optimization,2023,352,5,0,0
+10.14778/3685800.3685846,development,database query optimization,2024,442,40,1,1
+10.1515/geo-2022-0554,development,database query optimization,2023,352,20,0,0
+10.1515/jisys-2018-0016,held,machine translation,2018,0,18,0,0
+10.1556/2062.2022.00576,held,machine translation,2022,265,6,0,0
+10.1561/1500000065,development,information retrieval,2019,66,115,0,0
+10.1561/1500000090,development,recommender systems,2021,186,240,1,1
+10.15755/jfs.2018..46.373,held,machine translation,2018,0,6,0,0
+10.1587/transinf.2022edp7136,held,time series forecasting,2023,352,11,0,0
+10.17485/ijst/2018/v11i18/122267,development,database query optimization,2018,0,16,0,0
+10.21071/hikma.v23i3.16989,held,machine translation,2024,442,20,0,0
+10.2118/214769-ms,held,time series forecasting,2023,352,17,0,0
+10.2139/ssrn.3508639,development,software defect prediction,2019,66,3,0,0
+10.2196/18035,development,recommender systems,2021,186,115,0,0
+10.23919/acc.2018.8430883,held,distributed consensus,2018,0,10,0,0
+10.23919/acc.2018.8431898,held,distributed consensus,2018,0,16,0,0
+10.23919/acc.2019.8815134,held,distributed consensus,2019,66,43,0,0
+10.23919/ccc52363.2021.9550372,held,graph neural networks,2021,186,12,0,0
+10.23919/ecc64448.2024.10590959,held,distributed consensus,2024,442,24,0,0
+10.23919/eecsi50503.2020.9251874,development,software defect prediction,2020,118,14,0,0
+10.23919/fusion59988.2024.10706299,held,distributed consensus,2024,442,33,0,0
+10.23919/icact48636.2020.9061465,development,recommender systems,2020,118,14,0,0
+10.23919/ifipnetworking62109.2024.10619905,held,distributed consensus,2024,442,19,0,0
+10.23919/indiacom61295.2024.10498707,development,software defect prediction,2024,442,22,4,1
+10.23919/mipro.2019.8756806,held,time series forecasting,2019,66,3,0,0
+10.23939/ictee2022.02.058,held,distributed consensus,2022,265,6,0,0
+10.23939/sisn2024.15.065,development,database query optimization,2024,442,4,0,0
+10.24090/tids.v1i1.12192,development,software defect prediction,2024,442,21,1,1
+10.24195/2616-5317-2020-30-4,held,machine translation,2020,118,0,0,0
+10.24195/2616-5317-2020-30-7,held,machine translation,2020,118,0,0,0
+10.24195/2616-5317-2021-33-22,held,machine translation,2021,186,0,0,0
+10.2478/acss-2021-0008,held,time series forecasting,2021,186,16,0,0
+10.2478/fcds-2023-0009,development,recommender systems,2023,352,68,0,0
+10.26102/2310-6018/2019.27.4.039,held,time series forecasting,2019,66,2,0,0
+10.31686/ijier.vol9.iss8.3239,held,time series forecasting,2021,186,14,0,0
+10.3169/itej.72.668,held,machine translation,2018,0,9,0,0
+10.3233/idt-240224,held,time series forecasting,2024,442,35,0,0
+10.3233/jcm-226961,development,information retrieval,2023,352,15,0,0
+10.32604/cmc.2023.032454,development,database query optimization,2023,352,20,0,0
+10.32604/cmc.2023.045522,development,software defect prediction,2024,442,14,1,1
+10.32604/csse.2023.029689,development,software defect prediction,2023,352,27,3,1
+10.32604/iasc.2022.020362,development,software defect prediction,2022,265,26,0,0
+10.32628/cseit2390321,held,time series forecasting,2023,352,15,0,0
+10.3389/fdata.2024.1376023,held,time series forecasting,2024,442,19,0,0
+10.3390/a13080176,development,recommender systems,2020,118,68,0,0
+10.3390/analytics2010011,development,information retrieval,2023,352,23,0,0
+10.3390/app112110335,held,time series forecasting,2021,186,19,0,0
+10.3390/app131810466,development,software defect prediction,2023,352,52,1,1
+10.3390/app14020846,development,database query optimization,2024,442,29,2,1
+10.3390/app14156848,held,machine translation,2024,442,66,1,1
+10.3390/bdcc7020114,held,machine translation,2023,352,19,0,0
+10.3390/e24050657,held,time series forecasting,2022,265,22,0,0
+10.3390/e26010092,held,time series forecasting,2024,442,28,1,1
+10.3390/e26030244,development,information retrieval,2024,442,23,2,1
+10.3390/en15030773,held,time series forecasting,2022,265,6,0,0
+10.3390/math11112484,held,machine translation,2023,352,53,0,0
+10.3390/math11112524,development,software defect prediction,2023,352,25,5,1
+10.3390/math12152336,held,time series forecasting,2024,442,23,0,0
+10.3390/math12193102,development,database query optimization,2024,442,30,0,0
+10.35940/ijitee.g9993.0611722,development,software defect prediction,2022,265,18,0,0
+10.37697/eskiyeni.1468068,held,machine translation,2024,442,15,0,0
+10.3934/math.2024459,held,time series forecasting,2024,442,50,0,0
+10.4018/ijdsst.2020070105,development,software defect prediction,2020,118,17,0,0
+10.4018/ijdwm.2020070110,development,recommender systems,2020,118,40,0,0
+10.4018/ijiit.2021040102,development,recommender systems,2021,186,35,0,0
+10.4018/ijncr.2019010101,development,database query optimization,2019,66,15,0,0
+10.4018/ijtd.2018010101,development,information retrieval,2018,0,14,0,0
+10.4271/2022-01-0044,development,information retrieval,2022,265,3,0,0
+10.46632/daai/2/1/1,development,software defect prediction,2022,265,11,0,0
+10.46632/daai/3/2/7,development,software defect prediction,2023,352,4,0,0
+10.48077/scihor11.2023.166,held,time series forecasting,2023,352,25,0,0
+10.51483/ijaiml.2.1.2022.71-74,development,information retrieval,2022,265,10,0,0
+10.5406/21521123.61.4.03,development,recommender systems,2024,442,27,0,0
+10.56294/mr202338,held,machine translation,2023,352,16,0,0
+10.5687/iscie.34.58,held,distributed consensus,2021,186,21,0,0
+10.5715/jnlp.27.975,held,machine translation,2020,118,1,0,0
+10.5715/jnlp.29.925,held,machine translation,2022,265,128,0,0
+10.5715/jnlp.30.1245,held,machine translation,2023,352,3,0,0
+10.61186/jist.40851.12.45.20,development,database query optimization,2024,442,26,0,0
+10.70413/ejar-v02-i05-s1965,development,recommender systems,2022,265,3,0,0
+10.7717/peerj-cs.901,held,graph neural networks,2022,265,13,1,1
