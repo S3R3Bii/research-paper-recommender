@@ -1,0 +1,7 @@
+# Public metadata boundary
+
+Crossref's [REST API documentation](https://www.crossref.org/documentation/retrieve-metadata/rest-api/) states that no signup is required, almost all metadata can be used for any purpose, and abstracts can have separate copyright. Its [metadata retrieval overview](https://www.crossref.org/documentation/retrieve-metadata/) describes open reusable metadata. The [access rules](https://www.crossref.org/documentation/retrieve-metadata/rest-api/access-and-authentication/) describe public unauthenticated access and response rate-limit headers, verified 29 October 2026.
+
+Publish minimal bibliographic identifiers/titles/years/types and DOI-only citation edges with attribution. Do not assert a blanket license for full papers or abstracts. Raw complete responses and source documentation stay outside Git; reference prose, author/contact/ORCID/affiliation/funding fields are excluded. No private, clinical, business-confidential or formal-publication manuscript is an input. Metadata deposits can be incomplete or wrong; a DOI link is not an endorsement.
+
+Two Stanford IR documentation fetches timed out during bounded method discovery; no source text was copied. Log-TF/IDF cosine and Jaccard are established methods, not novel estimators. The exact implementation equations and inherited teaching choices are fixed in PROTOCOL.md. No model tuning or source corpus outcomes have occurred at this checkpoint.
