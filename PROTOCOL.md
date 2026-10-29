@@ -35,3 +35,7 @@ After freezing, evaluate the selected rule and baseline on held queries. Also re
 ## Acceptance and bounded independent checks
 
 Pass requires source/rights reconciliation, disjoint query IDs and correct older-candidate lineage, all ten candidate results, frozen selection before held scoring, independent metric/ranking reconstruction, meaningful exercise/reference/API boundary tests, isolated offline replay, source-backed figures, readable responsive UI inspected in a browser, and all final manuscript pages rendered and inspected. Correctness/privacy gates cannot be averaged away. UI appearance does not establish accessibility conformance. Record finite checks and limitations; grade 4 means the scoped criteria pass, not universal quality. Keep previous failures. At most three substantive review rounds, 45 active review minutes and 60 review-specific calls, excluding execution and remote release operations. Separate formal-publication projects remain private.
+
+## Numerical representation fixed before scoring
+
+Rank scores are rounded to 12 decimal places before sorting, with DOI ordering for resulting ties. Explanatory contributions retain double precision and are descriptive. Independent score reconstruction tolerance is 2e-12 absolute; metric counts, ranks, fractions and selection utility are exact rational values. No stochastic fitting, random seed or resampling is used. These choices are numerical representation, not probability calibration or empirical tuning.
