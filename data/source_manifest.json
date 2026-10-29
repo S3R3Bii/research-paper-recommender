@@ -1,0 +1,66 @@
+{
+  "duplicates": 0,
+  "exclusions": 264,
+  "projection_sha256": {
+    "data/catalog.json": "ba3ab05c241bfe6885031f8e65a6b089bbe2fc1e3a9e2b79c770c91208f30af1",
+    "data/citation_labels.json": "603c34a7f82e215656101a73245f6d567e7c98cb923e9357669dac55181b86a8",
+    "data/query_metadata.json": "1e68ffcd6c70f5faa0b5e4dfb1873191392b8cdee040ad2f2b5d7b85dc1e6754",
+    "data/source_duplicates.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "data/source_exclusions.json": "2402c1f588cbf43067b6e313d38c6226ca15130c7c5418446bd36aaa9df6a4d5"
+  },
+  "raw_responses": "Private originals excluded from Git",
+  "requests": [
+    {
+      "bytes": 2646746,
+      "rows": 100,
+      "sha256": "1787cb865de49863b74e60f3164e437b4e1718bbca3c381c14ec15000cf4b13b",
+      "topic": "information retrieval"
+    },
+    {
+      "bytes": 1825462,
+      "rows": 100,
+      "sha256": "0802b3ea12f804ee1479f9cd7db335da33a947a2169b0a1a4e0fe0b7a4371853",
+      "topic": "recommender systems"
+    },
+    {
+      "bytes": 533571,
+      "rows": 100,
+      "sha256": "82046c8b14bb4b1046466eb833d42b5d0ae5c72d289db379b1505906245ac351",
+      "topic": "database query optimization"
+    },
+    {
+      "bytes": 762803,
+      "rows": 100,
+      "sha256": "889c031ee38c03e32af6a5c3d914f3db6c9cb55f6eb278d40eca35ef1ff63dbb",
+      "topic": "software defect prediction"
+    },
+    {
+      "bytes": 1361153,
+      "rows": 100,
+      "sha256": "e72539c2bdbfeff59ab7254c72811fe3955cfcb04d37effddf6e555a6fdde3e4",
+      "topic": "graph neural networks"
+    },
+    {
+      "bytes": 846758,
+      "rows": 100,
+      "sha256": "bd647994b1cfb572db53b50c730f139fde479fc8ae677c9107a6b82f3fae2937",
+      "topic": "time series forecasting"
+    },
+    {
+      "bytes": 1010044,
+      "rows": 100,
+      "sha256": "ba3086a312752166420004faa5a1e7d862aa96e5468f8bc5fc947d436f4452b9",
+      "topic": "machine translation"
+    },
+    {
+      "bytes": 557872,
+      "rows": 100,
+      "sha256": "f4c0ed144ab9c587b763aaa72a30bf951fbc7423dae7e684530a45471f81f3a7",
+      "topic": "distributed consensus"
+    }
+  ],
+  "rights": "Minimal reusable metadata; no abstracts or full text",
+  "source": "Crossref REST API",
+  "source_protocol": "PROTOCOL.md",
+  "unique_eligible": 536
+}

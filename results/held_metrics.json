@@ -1,0 +1,204 @@
+[
+  {
+    "method": "jaccard",
+    "overall": {
+      "answered": 29,
+      "coverage": 1.0,
+      "exact": {
+        "coverage": "1",
+        "hit5_all": "12/29",
+        "hit5_answered": "12/29",
+        "mrr5": "3/10",
+        "recall5": "23/58",
+        "utility": "31/116"
+      },
+      "hit5_all": 0.41379310344827586,
+      "hit5_answered": 0.41379310344827586,
+      "hits": 12,
+      "mrr5": 0.3,
+      "queries": 29,
+      "recall5": 0.39655172413793105,
+      "utility": 0.2672413793103448
+    },
+    "strata": {
+      "distributed consensus": {
+        "answered": 2,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "0",
+          "hit5_answered": "0",
+          "mrr5": "0",
+          "recall5": "0",
+          "utility": "-1/4"
+        },
+        "hit5_all": 0.0,
+        "hit5_answered": 0.0,
+        "hits": 0,
+        "mrr5": 0.0,
+        "queries": 2,
+        "recall5": 0.0,
+        "utility": -0.25
+      },
+      "graph neural networks": {
+        "answered": 18,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "1/3",
+          "hit5_answered": "1/3",
+          "mrr5": "47/180",
+          "recall5": "11/36",
+          "utility": "1/6"
+        },
+        "hit5_all": 0.3333333333333333,
+        "hit5_answered": 0.3333333333333333,
+        "hits": 6,
+        "mrr5": 0.2611111111111111,
+        "queries": 18,
+        "recall5": 0.3055555555555556,
+        "utility": 0.16666666666666666
+      },
+      "machine translation": {
+        "answered": 6,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "2/3",
+          "hit5_answered": "2/3",
+          "mrr5": "5/12",
+          "recall5": "2/3",
+          "utility": "7/12"
+        },
+        "hit5_all": 0.6666666666666666,
+        "hit5_answered": 0.6666666666666666,
+        "hits": 4,
+        "mrr5": 0.4166666666666667,
+        "queries": 6,
+        "recall5": 0.6666666666666666,
+        "utility": 0.5833333333333334
+      },
+      "time series forecasting": {
+        "answered": 3,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "2/3",
+          "hit5_answered": "2/3",
+          "mrr5": "1/2",
+          "recall5": "2/3",
+          "utility": "7/12"
+        },
+        "hit5_all": 0.6666666666666666,
+        "hit5_answered": 0.6666666666666666,
+        "hits": 2,
+        "mrr5": 0.5,
+        "queries": 3,
+        "recall5": 0.6666666666666666,
+        "utility": 0.5833333333333334
+      }
+    },
+    "threshold": 0.3
+  },
+  {
+    "method": "jaccard",
+    "overall": {
+      "answered": 29,
+      "coverage": 1.0,
+      "exact": {
+        "coverage": "1",
+        "hit5_all": "12/29",
+        "hit5_answered": "12/29",
+        "mrr5": "3/10",
+        "recall5": "23/58",
+        "utility": "31/116"
+      },
+      "hit5_all": 0.41379310344827586,
+      "hit5_answered": 0.41379310344827586,
+      "hits": 12,
+      "mrr5": 0.3,
+      "queries": 29,
+      "recall5": 0.39655172413793105,
+      "utility": 0.2672413793103448
+    },
+    "strata": {
+      "distributed consensus": {
+        "answered": 2,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "0",
+          "hit5_answered": "0",
+          "mrr5": "0",
+          "recall5": "0",
+          "utility": "-1/4"
+        },
+        "hit5_all": 0.0,
+        "hit5_answered": 0.0,
+        "hits": 0,
+        "mrr5": 0.0,
+        "queries": 2,
+        "recall5": 0.0,
+        "utility": -0.25
+      },
+      "graph neural networks": {
+        "answered": 18,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "1/3",
+          "hit5_answered": "1/3",
+          "mrr5": "47/180",
+          "recall5": "11/36",
+          "utility": "1/6"
+        },
+        "hit5_all": 0.3333333333333333,
+        "hit5_answered": 0.3333333333333333,
+        "hits": 6,
+        "mrr5": 0.2611111111111111,
+        "queries": 18,
+        "recall5": 0.3055555555555556,
+        "utility": 0.16666666666666666
+      },
+      "machine translation": {
+        "answered": 6,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "2/3",
+          "hit5_answered": "2/3",
+          "mrr5": "5/12",
+          "recall5": "2/3",
+          "utility": "7/12"
+        },
+        "hit5_all": 0.6666666666666666,
+        "hit5_answered": 0.6666666666666666,
+        "hits": 4,
+        "mrr5": 0.4166666666666667,
+        "queries": 6,
+        "recall5": 0.6666666666666666,
+        "utility": 0.5833333333333334
+      },
+      "time series forecasting": {
+        "answered": 3,
+        "coverage": 1.0,
+        "exact": {
+          "coverage": "1",
+          "hit5_all": "2/3",
+          "hit5_answered": "2/3",
+          "mrr5": "1/2",
+          "recall5": "2/3",
+          "utility": "7/12"
+        },
+        "hit5_all": 0.6666666666666666,
+        "hit5_answered": 0.6666666666666666,
+        "hits": 2,
+        "mrr5": 0.5,
+        "queries": 3,
+        "recall5": 0.6666666666666666,
+        "utility": 0.5833333333333334
+      }
+    },
+    "threshold": 0.0
+  }
+]

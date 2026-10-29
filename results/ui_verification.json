@@ -1,0 +1,43 @@
+{
+  "status": "PASS_SCOPED_UI_INSPECTION",
+  "browser": "Chrome desktop local",
+  "viewports": [
+    {
+      "width": 1718,
+      "horizontal_overflow": false,
+      "recommendations": 5
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "card_left": 20,
+      "card_right": 355,
+      "recommendations": 5
+    }
+  ],
+  "checks": [
+    "Desktop initial/search layout and matched-term explanations visually inspected",
+    "Phone initial form and result cards visually inspected",
+    "Known DOI seed excluded and older-year candidates only, 442 eligible",
+    "Unmatched synthetic query renders explicit abstention and qualified next step",
+    "Keyboard Tab moved to the next example and link with visible solid 3px focus outline",
+    "Both inputs have explicit labels; status is a live region",
+    "No browser error/warning entries returned for the inspected app tab"
+  ],
+  "file_sha256": {
+    "web/app.js": "27d83e0711c795a1f85720629968b3457719c8b32311149ebcd2eb7ea883bd46",
+    "web/index.html": "5c116f8b6e108f47af1aa7e24bcf1cc480bb4adee5a3456dd486c8f2a0e0427c",
+    "web/style.css": "fb7871b577636fd57e4ae91cbcfe2b66b2f0781f1afeac2f67afcae32239b256",
+    "assets/product-desktop.png": "d781c3cd8d31287308f7447517e2ed3b985a5d11a6f21b70958736ee3cbc563f",
+    "assets/product-phone-results.png": "532b79e5105e6bc1cb9d571e0b0c91a84fafd4d868d28e0056392ac7e7807f79",
+    "assets/product-phone.png": "2d0007325d5e5695b85d15e1487dbee35bfe514f6aa6290af5e4e44e750d2482"
+  },
+  "limitations": [
+    "No accessibility conformance claim",
+    "No screen reader study, independent user study or general browser compatibility validation",
+    "Initial 8765 navigation showed an unrelated existing local app; dedicated 18341 used, no other app or process changed",
+    "Full-page screenshot command timed out once; normal capture succeeded"
+  ],
+  "cleanup": "Temporary test tabs closed; viewport reset; only the two owned server sessions stopped"
+}

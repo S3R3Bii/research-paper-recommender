@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "mode": "PRIVATE_ORIGINALS_INDEPENDENTLY_RECONCILED",
+  "checks": 16228,
+  "records": 536,
+  "partitions": {
+    "development": 263,
+    "held": 273
+  },
+  "limitations": "Current deposit metadata; no historical availability, relevance or claim-support verification"
+}

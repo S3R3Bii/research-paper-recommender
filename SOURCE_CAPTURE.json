@@ -1,0 +1,79 @@
+{
+  "source": "Crossref public REST API",
+  "requests": [
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:44.650914+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=information+retrieval&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:46.438160+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=recommender+systems&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:48.111193+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=database+query+optimization&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:49.574433+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=software+defect+prediction&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:51.023014+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=graph+neural+networks&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:52.680357+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=time+series+forecasting&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:54.317515+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=machine+translation&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    },
+    {
+      "headers": {
+        "x-rate-limit-interval": "1s",
+        "x-rate-limit-limit": "1"
+      },
+      "retrieved_utc": "2026-10-29T23:28:55.906184+00:00",
+      "status": 200,
+      "url": "https://api.crossref.org/works?query.title=distributed+consensus&rows=100&select=DOI%2Ctitle%2Cpublished%2Ctype%2Creference&filter=from-pub-date%3A2018-01-01%2Cuntil-pub-date%3A2024-12-31%2Chas-references%3Atrue"
+    }
+  ],
+  "raw_responses": "Retained privately outside all public Git histories",
+  "scope": "Recorded exact requests, UTC capture times, statuses and rate headers; historical vintages unverified"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 315,
+  "source_values": 34,
+  "svg_coordinates": 272,
+  "figure_hashes": 9,
+  "limits": "Finite source-value and rendered-geometry/hash checks; aesthetic review recorded separately"
+}

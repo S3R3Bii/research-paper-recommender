@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .private/
 rendered/
+paper/*.log
+paper/*.aux
+paper/*.out
+paper/*.xdv

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "exact_csv_fields": 32518,
+  "contribution_tolerance_fields": 10319,
+  "absolute_tolerance": 2e-12,
+  "json_documents": 4,
+  "tests": 17,
+  "reference_contract_assertions": 10,
+  "learner_stub": "Expected INCOMPLETE exit 2 verified",
+  "offline": true,
+  "originals_unchanged": true
+}

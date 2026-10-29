@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "stage": "held",
+  "checks": 4316,
+  "queries": 29,
+  "query_rows": 58,
+  "recommendation_rows": 286,
+  "ranking_reconstruction": "Independent NumPy, SQL older-year/citation joins and exact metric fractions",
+  "score_absolute_tolerance": 2e-12,
+  "claim_limit": "Citation proxy only; no independent human relevance or claim-support gold standard"
+}

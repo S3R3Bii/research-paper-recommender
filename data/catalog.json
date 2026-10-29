@@ -1,0 +1,3218 @@
+[
+  {
+    "doi": "10.1002/aaai.12050",
+    "title": "Recommender systems: Trends and frontiers",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1002/aisy.202000141",
+    "title": "In‐Memory Database Query",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1002/for.2734",
+    "title": "Stock index forecasting: A new fuzzy time series forecasting method",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1002/for.2998",
+    "title": "Forecasting nonstationary time series",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1002/for.3241",
+    "title": "Nonstationary Functional Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1002/rnc.5056",
+    "title": "Distributed adaptive consensus protocol with decaying gains",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1002/rnc.5840",
+    "title": "Modal consensus observers for distributed parameter systems",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1002/smr.2549",
+    "title": "A research landscape on software defect prediction",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1002/smr.2634",
+    "title": "Mutation‐based data augmentation for software defect prediction",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1002/spe.3001",
+    "title": "Just‐in‐time defect prediction for software hunks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1007/s00446-022-00436-8",
+    "title": "Reaching consensus for asynchronous distributed key generation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1007/s00477-019-01652-8",
+    "title": "Fuzzy time series for real-time flood forecasting",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1007/s00521-020-05509-y",
+    "title": "Named entity translation method based on machine translation lexicon",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1007/s00521-023-08879-1",
+    "title": "Lagging problem in financial time series forecasting",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1007/s00521-024-09705-y",
+    "title": "Dose multimodal machine translation can improve translation performance?",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s00521-024-10937-1",
+    "title": "Survey of software defect prediction features",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s00778-022-00777-7",
+    "title": "SQUID: subtrajectory query in trillion-scale GPS database",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1007/s00778-024-00888-3",
+    "title": "In-database query optimization on SQL with ML predicates",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s10115-020-01542-4",
+    "title": "AQUA+: Query Optimization for Hybrid Database-MapReduce System",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1007/s10115-023-01906-6",
+    "title": "Recommender Systems in Cybersecurity",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1007/s10462-022-10229-x",
+    "title": "Evaluating conversational recommender systems",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1007/s10462-024-10989-8",
+    "title": "Deep learning-based time series forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s10515-024-00424-1",
+    "title": "Software defect prediction: future directions and challenges",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s10590-019-09229-6",
+    "title": "Post-editing neural machine translation versus phrase-based machine translation for English–Chinese",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1007/s10590-019-09232-x",
+    "title": "Post-editing neural machine translation versus translation memory segments",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1007/s10707-018-00335-w",
+    "title": "Query rewriting for semantic query optimization in spatial databases",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1007/s10773-018-3940-y",
+    "title": "Robust High Capability QKD-Based Database Private Query",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1007/s10773-020-04561-7",
+    "title": "Practical Quantum Database Private Query Protocol with Classical Database Owner",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1007/s10791-024-09442-9",
+    "title": "Advances in information retrieval collection on the European conference on information retrieval 2023",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s10994-021-06017-3",
+    "title": "Beyond graph neural networks with lifted relational neural networks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1007/s11063-020-10355-z",
+    "title": "Cost-sensitive Dictionary Learning for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1007/s11192-018-2861-0",
+    "title": "Bibliometric-enhanced information retrieval: preface",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1007/s11227-019-02970-y",
+    "title": "The harmonized consensus protocol in distributed systems",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1007/s12597-024-00832-7",
+    "title": "Size-biased Hybrid Model for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s12599-018-0517-5",
+    "title": "Process Modeling Recommender Systems",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1007/s13198-024-02407-7",
+    "title": "Software defect prediction using global and local models",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1007/s40314-022-01765-x",
+    "title": "Frequency-based ensemble forecasting model for time series forecasting",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1007/s40747-023-01200-6",
+    "title": "Imperceptible graph injection attack on graph neural networks",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1007/s41066-020-00220-8",
+    "title": "Intuitionistic fuzzy time series functions approach for time series forecasting",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1007/s41870-019-00299-6",
+    "title": "Cross project defect prediction for open source software",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1016/j.asoc.2021.107169",
+    "title": "Influence-aware graph neural networks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1016/j.automatica.2021.110046",
+    "title": "Resilient distributed vector consensus using centerpoint",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.automatica.2022.110322",
+    "title": "Distributed computation of fast consensus weights using ADMM",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.cor.2020.104983",
+    "title": "Query batching optimization in database systems",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.crhy.2019.05.014",
+    "title": "Towards novelty-driven recommender systems",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1016/j.eng.2021.03.023",
+    "title": "Progress in Machine Translation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.epsr.2020.106547",
+    "title": "Neural networks for power flow: Graph neural solver",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.eswa.2020.113680",
+    "title": "Forecasting with time series imaging",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.fss.2018.12.019",
+    "title": "Linguistically characterizing clusters of database query answers",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1016/j.ifacol.2018.12.017",
+    "title": "Distributed Consensus over Markovian Packet Loss Channels",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1016/j.ifacol.2019.12.195",
+    "title": "Resilient Consensus with Distributed Fault Detection",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1016/j.ifacol.2020.12.1536",
+    "title": "A Newton consensus method for distributed optimization",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.ifacol.2023.10.903",
+    "title": "Distributed Consensus Kalman Filtering Over Time-Varying Graphs",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1016/j.ins.2021.10.006",
+    "title": "Preventing translation quality deterioration caused by beam search decoding in neural machine translation using statistical machine translation",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1016/j.ins.2022.02.007",
+    "title": "MLTF: Model less time-series forecasting",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.ipm.2019.102181",
+    "title": "Unsupervised dialectal neural machine translation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.isatra.2021.10.015",
+    "title": "Consensus-based distributed receding horizon estimation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.jer.2023.10.038",
+    "title": "Ensemble learning based software defect prediction",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1016/j.knosys.2022.108598",
+    "title": "Video-guided machine translation via dual-level back-translation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.neucom.2019.11.067",
+    "title": "Deep learning based software defect prediction",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.neucom.2022.01.003",
+    "title": "Learning graph normalization for graph neural networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1016/j.neucom.2022.10.067",
+    "title": "Online time-series forecasting using spiking reservoir",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1016/j.neunet.2020.07.008",
+    "title": "k-hop graph neural networks",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1016/j.patcog.2021.108132",
+    "title": "Learning graph edit distance by graph neural networks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1016/j.physa.2021.126134",
+    "title": "Hybrid time series forecasting methods for travel time prediction",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1016/j.procs.2023.01.002",
+    "title": "Ensemble Machine Learning Paradigms in Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1016/j.sigpro.2023.109307",
+    "title": "Consensus-based distributed algorithm for GEP",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1017/s0269888918000024",
+    "title": "Relational time series forecasting",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1017/s1471068419000097",
+    "title": "Action-Centered Information Retrieval",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1038/s41551-021-00758-1",
+    "title": "Machine learning in translation",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1038/s41598-023-42917-1",
+    "title": "Time series forecasting methods in emergency contexts",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1038/s43586-024-00294-7",
+    "title": "Graph neural networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1038/s44172-023-00142-8",
+    "title": "Time-series forecasting through recurrent topology",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1039/d4sc04554h",
+    "title": "Thermodynamics-consistent graph neural networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1049/iet-sen.2017.0148",
+    "title": "Progress on approaches to software defect prediction",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1049/iet-sen.2019.0149",
+    "title": "Software defect prediction via LSTM",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1051/itmconf/20245902005",
+    "title": "Financial time series forecasting methods",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1063/5.0142134",
+    "title": "Software defect prediction using deep learning",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1063/5.0148412",
+    "title": "Recommender systems: Matrix factorization",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1063/5.0164406",
+    "title": "A survey on software defect prediction – A review",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1063/5.0178913",
+    "title": "Deep learning for software defect prediction",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1075/aila.24020.yua",
+    "title": "Strategic use of machine translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1075/babel.00332.she",
+    "title": "Neural machine translation and human translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1075/ijcl.19127.luo",
+    "title": "Universals in machine translation?",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1075/ts.22035.ass",
+    "title": "The position of machine translation in translation studies",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1080/01605682.2024.2395315",
+    "title": "Forecasting interrupted time series",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1080/01621459.2023.2279695",
+    "title": "Recommender Systems: A Review",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1080/0907676x.2023.2292571",
+    "title": "The politics of machine translation. Reprogramming translation studies",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1080/10350330.2024.2366288",
+    "title": "Towards responsible machine translation: ethical and legal considerations in machine translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1080/1206212x.2024.2404087",
+    "title": "Domination based graph neural networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1080/20539320.2022.2143655",
+    "title": "The Event/Machine of Neural Machine Translation?",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1088/1742-6596/1569/2/022001",
+    "title": "Feature Selection in Cross-Project Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1088/1742-6596/1651/1/012122",
+    "title": "Investigating Back-Translation in Tibetan-Chinese Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1088/1742-6596/1861/1/012088",
+    "title": "Man-Machine Translation—Future of Computer-Assisted Translation",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1088/1742-6596/1881/4/042023",
+    "title": "Machine Translation and Computer Aided English Translation",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1088/1742-6596/2131/2/022110",
+    "title": "Interval forecasting of time series using orderstatistics",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1088/1742-6596/2171/1/012008",
+    "title": "Software Defect Prediction: An Ensemble Learning Approach",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1088/1757-899x/407/1/012154",
+    "title": "Forecasting Rainfall with Time Series Model",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1103/physrevresearch.4.043131",
+    "title": "Graph coloring with physics-inspired graph neural networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1108/dta-08-2019-0135",
+    "title": "Scholarly publication venue recommender systems",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1108/k-06-2017-0196",
+    "title": "Recommender systems",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/access.2018.2890733",
+    "title": "Multiview Transfer Learning for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/access.2019.2926888",
+    "title": "A Flexible Consensus Protocol for Distributed Systems",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/access.2020.3004879",
+    "title": "Ancient Korean Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/access.2021.3049544",
+    "title": "QIACO: A Quantum Dynamic Cost Ant System for Query Optimization in Distributed Database",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/access.2021.3054948",
+    "title": "Improving Software Defect Prediction by Aggregated Change Metrics",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/access.2021.3063715",
+    "title": "Machine Translation of Mathematical Text",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/access.2022.3141589",
+    "title": "Optimization Method for Distributed Database Query Based on an Adaptive Double Entropy Genetic Algorithm",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/access.2022.3176634",
+    "title": "Schatten Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/access.2022.3211978",
+    "title": "Holistic Parameter Optimization for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/access.2022.3217480",
+    "title": "Software Defect Density Prediction Using Deep Learning",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/access.2024.3456913",
+    "title": "Survey on Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/acit.2018.8672584",
+    "title": "Optimizing Database Query Performance Using Table Partitioning Techniques",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/acssc.2018.8645465",
+    "title": "Noisy Private Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/aero55745.2023.10115595",
+    "title": "Distributed Consensus for Asynchronous Space Applications (CASA)",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/aiam50918.2020.00022",
+    "title": "Study of Multi Ant Colony Genetic Algorithm in Query Optimization of Distributed Database",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/aicit59054.2023.10277892",
+    "title": "Review of Machine Translation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/aiic54368.2022.9914586",
+    "title": "Current Software Defect Prediction: A Systematic Review",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/aitc.2019.8921374",
+    "title": "Software Defect Prediction using Hybrid Approach",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/allerton.2018.8635839",
+    "title": "Distributed Stopping Criterion for Ratio Consensus",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/asonam.2018.8508703",
+    "title": "Robust Distributed Voting Mechanism by Consensus",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/besc64747.2024.10780468",
+    "title": "Federated Spectral Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/bigcomp.2019.8679425",
+    "title": "Balanced Nearest Neighborhood Query in Spatial Database",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/bigdata.2018.8622401",
+    "title": "Adaptive Time, Monetary Cost Aware Query Optimization on Cloud Database Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/bigdata47090.2019.9006098",
+    "title": "Distributed Consensus Reduced Support Vector Machine",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/bigdata52589.2021.9672062",
+    "title": "Cybersecurity Knowledge Graph Improvement with Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/bigdata55660.2022.10020338",
+    "title": "Multi-Query Optimization Revisited: A Full-Query Algebraic Method",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/bigdata55660.2022.10020349",
+    "title": "Physics-based multiple time-series univariate forecasting",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/bigdata59044.2023.10386792",
+    "title": "Graph Coordinates and Conventional Neural Networks - An Alternative for Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/biosmart54244.2021.9677869",
+    "title": "Software Defect Prediction Approaches: A Review",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/cbi52690.2021.10059",
+    "title": "Recommender Systems for Capability Matchmaking",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/ccict56684.2022.00032",
+    "title": "Recommender Systems in E-Commerce",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/ccis.2018.8691206",
+    "title": "Research on Optimizing Strategy of Database-oriented GIS Graph database Query",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/ccta.2018.8511492",
+    "title": "Distributed Kalman Filtering: Consensus, Diffusion, and Mixed",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/ccta49430.2022.9966089",
+    "title": "Distributed Average Consensus and Abstract Control",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/ccwc51732.2021.9376080",
+    "title": "Consensus From Distributed Iterative Voting",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/cdc.2018.8619512",
+    "title": "A Consensus-Based Distributed Augmented Lagrangian Method",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/cdc49753.2023.10383363",
+    "title": "Distributed Consensus Optimization via ADMM-Tracking Gradient",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/cdc51059.2022.9992506",
+    "title": "Trustworthy Distributed Average Consensus",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/cist56084.2023.10409946",
+    "title": "Time Series Forecasting Using Ensemble Model",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/clei47609.2019.235091",
+    "title": "Modelling Traceability in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/comitcon.2019.8862444",
+    "title": "Evaluating Missing Values for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/compsac.2019.00072",
+    "title": "Cooperative UAVs Gas Monitoring using Distributed Consensus",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/conf-spml54095.2021.00015",
+    "title": "An Overview of Recommender Systems and Its Next Generation: Context-Aware Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/conit51480.2021.9498451",
+    "title": "Comparison of Time-Series Forecasting Models",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/cscloud-edgecom54986.2022.00037",
+    "title": "Low Resource Neural Machine Translation",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/csnt54456.2022.9787607",
+    "title": "Heterogeneous Software Defect Prediction using Generative Models",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/cvpr46437.2021.00937",
+    "title": "Binary Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/deeptest59248.2023.00008",
+    "title": "Metamorphic Testing of Machine Translation Models using Back Translation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/docs55193.2022.9967755",
+    "title": "Unbalanced data processing for software defect prediction",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/dsaa60987.2023.10302495",
+    "title": "Knowledge Enhanced Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/dsaa60987.2023.10302600",
+    "title": "Interpretability Methods for Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/dslw51110.2021.9523412",
+    "title": "Graph-Time Convolutional Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/dslw53931.2022.9820575",
+    "title": "Node-Variant Graph Filters in Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/dsmp47368.2020.9204311",
+    "title": "The Combined Time Series Forecasting Model",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/dsn-s50200.2020.00023",
+    "title": "Secure Consensus Generation with Distributed DoH",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/dyspan.2018.8610467",
+    "title": "Consensus-Before-Talk: Distributed Dynamic Spectrum Access via Distributed Spectrum Ledger Technology",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/eeccis.2018.8692874",
+    "title": "Software Defect Prediction using Oversampling Algorithm: A-SUWO",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/eiecs59936.2023.10435503",
+    "title": "Multivariate Time Series Forecasting based on Time-Frequency Decomposition",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/eiecs63941.2024.10800366",
+    "title": "Parallel Query Processing in Database on Multicore System",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/fie58773.2023.10343409",
+    "title": "Assessing Student Learning Across Various Database Query Languages",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/gcaiot63427.2024.10833588",
+    "title": "DECML: Distributed Edge Consensus Machine Learning Framework",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/globalsip.2018.8645966",
+    "title": "CONSENSUS OPTIMIZATION FOR DISTRIBUTED REGISTRATION",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/glosic.2018.8570100",
+    "title": "Intelligence Information Retrieval in Corporate Information Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/hpcc-dss-smartcity-dependsys53884.2021.00148",
+    "title": "Distributed Consensus Problem in Federated Learning Paradigm",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/hpcc-dss-smartcity-dependsys53884.2021.00343",
+    "title": "Survey on Query Optimization of GPU database",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/i-smac58438.2023.10290523",
+    "title": "Software Defect Prediction using ANN Algorithm",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/i2ct51068.2021.9417911",
+    "title": "Query Optimization for Cloud Database",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/i3ceet61722.2024.10994067",
+    "title": "Evaluating AI for Time- Series Forecasting",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/ibcast51254.2021.9393250",
+    "title": "Software Defect Prediction with Naïve Bayes Classifier",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/ic3i59117.2023.10397780",
+    "title": "Use of Neural Machine Translation in Multimodal Translation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icaiccit60255.2023.10466047",
+    "title": "Ensemble Boosting Algorithms for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icassp.2018.8461529",
+    "title": "Distributed Maximum Likelihood Using Dynamic Average Consensus",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/icassp.2019.8682975",
+    "title": "Aggregation Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icassp40776.2020.9053792",
+    "title": "Consensus-Based Distributed Clustering for IoT",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/icassp40776.2020.9054424",
+    "title": "Stochastic Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/icbk.2019.00034",
+    "title": "AQUA+: Query Optimization for Hybrid Database-MapReduce System",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/iccc47050.2019.9064412",
+    "title": "Software Defect Prediction based on Machine Learning Algorithms",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icccs55155.2022.9846105",
+    "title": "Relational Database Query Optimization Strategy Based on Industrial Internet Situation Awareness System",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/iccea53728.2021.00073",
+    "title": "Software Defect Prediction Model Based on Attention Mechanism",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/iccect60629.2024.10545893",
+    "title": "An Optimization Method of Federated Database Join Query Based on Computational Push-Down",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/iccit60459.2023.10441199",
+    "title": "Analysis of SARGable Queries for Query Optimization in Relational Database",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/iccit62134.2024.10701182",
+    "title": "Enhancing Software Quality Through Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/iccke65377.2024.10874478",
+    "title": "Real-Time Forecasting Using Mixed Frequency Time-Series Data",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/iccmc.2019.8819788",
+    "title": "Survey on Neural Machine Translation for multilingual translation system",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/iccpct61902.2024.10673411",
+    "title": "Revolutionizing Software Defect Prediction Through Deep Learning",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/iccs45141.2019.9065562",
+    "title": "Information Retrieval in Computing Model",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icctit60726.2023.10435711",
+    "title": "Software Defect Prediction via Code Language Models",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icdabi60145.2023.10629335",
+    "title": "Leveraging AI Techniques for Enhanced Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icdacai65086.2024.00020",
+    "title": "Neural Machine Translation Based on Multi Translation Parallel Corpus",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icdacai65086.2024.00110",
+    "title": "Research on Storage and Query Optimization Algorithm of Distributed Database for Big Data",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icdcc62744.2024.10961134",
+    "title": "Review of Machine Translation Systems for Verse (Poetic) Translation",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icde55515.2023.00214",
+    "title": "In-Situ Cross-Database Query Processing",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icde60146.2024.00035",
+    "title": "Adaptive Recursive Query Optimization",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icdm54844.2022.00049",
+    "title": "Backpropagation-free Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icdm54844.2022.00110",
+    "title": "Invariant Factor Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icdm58522.2023.00180",
+    "title": "Counterfactual Explanations for Time Series Forecasting",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icdm59182.2024.00084",
+    "title": "Channel-Attentive Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icdm59182.2024.00095",
+    "title": "Towards Expressive Graph Representations for Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icdt57929.2023.10151116",
+    "title": "Distributed Consensus and Fault Tolerance Mechanisms Using Distributed Machine Learning",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/iceca52323.2021.9675890",
+    "title": "Reduce Estimation Error Rate and Power in Database Center During Query Processing & Query Optimization",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icedcs60513.2023.00131",
+    "title": "Optimization query algorithm of distance education database based on student behavior analysis",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icemce60359.2023.10490819",
+    "title": "Database Multi-Connection Query Optimization Based on Improved Snake Optimization Algorithm",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icemce60359.2023.10490874",
+    "title": "Cross-Project Software Defect Prediction with Subdomain Adaptation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icemi52946.2021.9679501",
+    "title": "Consensus Clock Synchronization for Distributed Satellite System Based on Distributed PI Controller",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icetietr.2018.8529006",
+    "title": "Translating Natural Language Sentences into Database Query",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/iciccsp53532.2022.9862424",
+    "title": "Time Series Forecasting Model for Sunspot Number",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icicn.2019.8834978",
+    "title": "Study on Distributed Dynamic Average Consensus Algorithm",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icict50816.2021.9358682",
+    "title": "Traffic Forecasting using Time-Series Analysis",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icimtech63123.2024.10780854",
+    "title": "Software Defect Prediction Using Ensemble Technique",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/iciteed.2019.8929990",
+    "title": "Solar Irradiation Forecasting Uses Time Series Analysis",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icivc.2018.8492789",
+    "title": "Database Query Optimization Based on Parallel Ant Colony Algorithm",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/icmeae55138.2021.00026",
+    "title": "Evaluation of Classification Algorithms for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icmla51294.2020.00140",
+    "title": "Deep Learning based Time Series Forecasting",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/icmla55696.2022.00270",
+    "title": "Graph-based Recommendation using Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icodsa58501.2023.10277136",
+    "title": "Indonesian-Kailinese Machine Translation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icodse56892.2022.9971813",
+    "title": "Improving Defect Prediction Using Combination of Software Metrics",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icodt255437.2022.9787439",
+    "title": "An Ensemble Model for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icoei48184.2020.9142909",
+    "title": "Software Defect Prediction Using Machine Learning Techniques",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/icomet.2019.8673410",
+    "title": "User Experience and Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icoseit60086.2024.10497461",
+    "title": "Software Defect Prediction using Outlier Detection Algorithm",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icpeca53709.2022.9719293",
+    "title": "Research on Application of Computer Database Technology in Distributed Query Optimization Algorithm",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icpr48806.2021.9412278",
+    "title": "Revisiting Graph Neural Networks: Graph Filtering Perspective",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icpr56361.2022.9956478",
+    "title": "Explanation-based Graph Neural Networks for Graph Classification",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/icps49255.2021.9468120",
+    "title": "Distributed Consensus with Private Communications",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icsc59802.2024.00049",
+    "title": "Optimism and Pessimism in Database Query Optimisation",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icscc.2019.8843685",
+    "title": "Improving Neural Machine Translation Using Rule-Based Machine Translation",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/icse43902.2021.00050",
+    "title": "Early Life Cycle Software Defect Prediction. Why? How?",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icse48619.2023.00174",
+    "title": "Testing Database Engines via Query Plan Guidance",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icse48619.2023.00175",
+    "title": "Testing Database Systems via Differential Query Execution",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/icseng.2018.8638179",
+    "title": "Time series analysis for crime forecasting",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/icses63760.2024.10910437",
+    "title": "Stock Price Forecasting by Time Series Analysis",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/icsip52628.2021.9688915",
+    "title": "Distributed Analysis Dictionary Learning Based on Consensus Constraints",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icsp51882.2021.9408940",
+    "title": "Multiobjective and Multistakeholder Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/icwapr63074.2024.10870496",
+    "title": "Cauchy Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/ieeeconf44664.2019.9048767",
+    "title": "Convolutional Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/iicaiet55139.2022.9936787",
+    "title": "Efficient Distributed Consensus Algorithm For Swarm Robotic",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/ijcnn.2018.8489522",
+    "title": "SeriesNet:A Generative Time Series Forecasting Model",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/ijcnn52387.2021.9533734",
+    "title": "Guiding Neural Machine Translation with Retrieved Translation Template",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/ijcnn55064.2022.9892241",
+    "title": "CoGNet: Cooperative Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/ijcnn55064.2022.9892899",
+    "title": "Diverse Machine Translation with Translation Memory",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/imcec.2018.8469696",
+    "title": "Database Query Optimization Based on Distributed Photovoltaic Power Generation",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/infoct.2019.8711416",
+    "title": "Towards Persuasive Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/iri.2018.00047",
+    "title": "Misclassification Cost-Sensitive Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/iri.2019.00048",
+    "title": "Renovating Database Queries with Query AutoAwesome",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/isdfs49300.2020.9116418",
+    "title": "To Review and Compare Evolutionary Algorithms in Optimization of Distributed Database Query",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/isemantic59612.2023.10295285",
+    "title": "Local Error Translation and Translation Technique Analyses from Instagram Account \"Info Kejadian Semarang\" using Instagram Translation Machine and Google Lens Translation Machine",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/isgteurope.2018.8571893",
+    "title": "Distributed Secondary Frequency Control via Price Consensus",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/isit.2019.8849444",
+    "title": "Weakly-Private Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/isit45174.2021.9518183",
+    "title": "Timely Private Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/issrew55968.2022.00037",
+    "title": "Early Software Defect Prediction: Right-Shifting Software Effort Data into a Defect Curve",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/issrew60843.2023.00044",
+    "title": "Software Defect Prediction by Online Learning Considering Defect Overlooking",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/itms.2018.8552953",
+    "title": "SQL query construction from database concepts",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/itnec48623.2020.9084745",
+    "title": "Software Defect Prediction via Transformer",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/jiot.2022.3229746",
+    "title": "Wireless Distributed Consensus for Connected Autonomous Systems",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/jsait.2022.3188610",
+    "title": "Symmetric Private Information Retrieval at the Private Information Retrieval Rate",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/lsp.2020.3003237",
+    "title": "Consensus Based Distributed Spectral Radius Estimation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/lsp.2020.3029706",
+    "title": "Privacy-Preserving Distributed Maximum Consensus",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/med51440.2021.9480355",
+    "title": "Reciprocity of Algorithms Solving Distributed Consensus-Based Optimization and Distributed Resource Allocation",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/medai59581.2023.00033",
+    "title": "Graph Generation with Recurrent and Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/milcom61039.2024.10773878",
+    "title": "Distributed Average Consensus and Connected Dominating Sets",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/mipro60963.2024.10569204",
+    "title": "Automated SQL Query Evaluations in Massive Database Courses",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/mis.2024.3398190",
+    "title": "Toward Responsible Recommender Systems",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/mlsp49062.2020.9231732",
+    "title": "Graph-Adaptive Activation Functions for Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/msp.2020.3016143",
+    "title": "Graphs, Convolutions, and Neural Networks: From Graph Filters to Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/ngdn61651.2024.10744063",
+    "title": "GPMBC-FZ: A Query Optimization Method in Distributed Database",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/nir52917.2021.9666110",
+    "title": "A Classification of Software Defect Prediction Models",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/pdgc50313.2020.9315754",
+    "title": "Heterogeneous Stacked Ensemble Classifier for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/pgsret.2018.8685975",
+    "title": "Distributed Energy Optimization using Consensus Theory Approach",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/pic.2018.8706304",
+    "title": "Software Defect Prediction Based on Fourier Learning",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/qcnc62729.2024.00015",
+    "title": "CDQKL: Consensus-Based Distributed Quantum Kernel Learning",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/rams51457.2022.9893986",
+    "title": "Software Reliability: Development of Software Defect Prediction Models Using Advanced Techniques",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/saner56733.2023.00114",
+    "title": "Interpretable Software Defect Prediction Incorporating Multiple Rules",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/sbesc56799.2022.9965153",
+    "title": "Distributed Learning using Consensus on Edge AI",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/sceecs61402.2024.10482217",
+    "title": "Transformer-Based Multivariate Time Series Forecasting",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/seai59139.2023.10217656",
+    "title": "Attention Based Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/seatuc.2018.8788881",
+    "title": "Software Defect Prediction Using Random Forest Algorithm",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/smartgencon56628.2022.10083651",
+    "title": "Robust Time Series Forecasting via Time Differencing and Stacking",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/smartworld-uic-atc-scalcom-iop-sci.2019.00244",
+    "title": "Software Defect Prediction Model Based On KPCA-SVM",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/smartworld.2018.00266",
+    "title": "Software Defect Prediction Model Sharing Under Differential Privacy",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/smc53654.2022.9945543",
+    "title": "Time-Series Forecasting With Shape Attention",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tac.2019.2915747",
+    "title": "Distributed Consensus Over Markovian Packet Loss Channels",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/tai.2022.3179681",
+    "title": "Thermodynamics-Informed Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/taslp.2018.2860287",
+    "title": "Incorporating Statistical Machine Translation Word Knowledge Into Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/taslp.2021.3138714",
+    "title": "Integrating Prior Translation Knowledge Into Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tcns.2017.2660242",
+    "title": "Distributed Stopping for Average Consensus in Digraphs",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/tcyb.2017.2726102",
+    "title": "Distributed Parametric Consensus Optimization With an Application to Model Predictive Consensus Problem",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/tcyb.2022.3164696",
+    "title": "Semisupervised Graph Neural Networks for Graph Classification",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/tfuzz.2019.2922152",
+    "title": "Probabilistic Forecasting With Fuzzy Time Series",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/tfuzz.2023.3309811",
+    "title": "Differential Convolutional Fuzzy Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/tit.2019.2935440",
+    "title": "Noisy Private Information Retrieval: On Separability of Channel Coding and Information Retrieval",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/tit.2019.2948845",
+    "title": "Private Information Retrieval With Side Information",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/tit.2021.3136583",
+    "title": "Semantic Private Information Retrieval",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tkde.2022.3153651",
+    "title": "A Scalable Query-Aware Enormous Database Generator for Database Evaluation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tnnls.2022.3184967",
+    "title": "Graph Neural Networks for Graph Drawing",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/tnnls.2022.3220548",
+    "title": "Transition Propagation Graph Neural Networks for Temporal Networks",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1109/tpami.2021.3111054",
+    "title": "EdgeNets: Edge Varying Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tpami.2021.3134200",
+    "title": "Non-Local Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/tr.2020.3047396",
+    "title": "Software Defect Prediction Based on Gated Hierarchical LSTMs",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/tro.2022.3228132",
+    "title": "Distributed Multirobot Task Assignment via Consensus ADMM",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1109/trustcom/bigdatase.2018.00197",
+    "title": "SPARQL Multi-Query Optimization",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1109/tse.2018.2877612",
+    "title": "Deep Semantic Feature Learning for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/tsipn.2018.2881718",
+    "title": "Distributed Bernoulli Filtering Using Likelihood Consensus",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1109/tsp.2020.3033962",
+    "title": "Gated Graph Recurrent Neural Networks",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/tsp.2021.3087905",
+    "title": "Graph Unrolling Networks: Interpretable Neural Networks for Graph Signal Denoising",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/tsp.2021.3092336",
+    "title": "Stochastic Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1109/tvcg.2021.3052580",
+    "title": "Consensus Based Networking of Distributed Virtual Environments",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1109/vtc2020-fall49728.2020.9348508",
+    "title": "Distributed Cooperative Localization Framework via Consensus Optimization",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1109/wcncw49093.2021.9420035",
+    "title": "Distributed Tracking Stopping Time Using Average Consensus",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1111/coin.12643",
+    "title": "Novel algorithm machine translation for language translation tool",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1111/exsy.12303",
+    "title": "Online bagging for recommender systems",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1117/12.2690068",
+    "title": "Time series forecasting with multilayer perceptrons",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1117/12.3023467",
+    "title": "Quantum time series forecasting",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3170427.3186493",
+    "title": "Demonstrating Reality-Based Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3176349.3176898",
+    "title": "Information Visualization for Interactive Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3183713.3197389",
+    "title": "Modern Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3184558.3186949",
+    "title": "User Fairness in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3190616",
+    "title": "Sequence-Aware Recommender Systems",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3209219.3209270",
+    "title": "Sequence-aware Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3209219.3209272",
+    "title": "Group Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3209219.3213591",
+    "title": "Data-Driven Destination Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3209978.3210016",
+    "title": "Streaming Ranking Based Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3209978.3210186",
+    "title": "Fusion in Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3219788.3219806",
+    "title": "Comparison of Query Languages for Semantic Database Models",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3229345.3229350",
+    "title": "Recommender Systems with Social Elements",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3240323.3241620",
+    "title": "Multimedia recommender systems",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3243734.3243821",
+    "title": "Private Stateful Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3274784.3274788",
+    "title": "Research Frontiers in Information Retrieval",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3293339.3293341",
+    "title": "Overview of Verb Phrase Translation in Machine Translation",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3293475.3293487",
+    "title": "Information Retrieval from School Data",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1145/3294052.3322190",
+    "title": "Database Repairs and Consistent Query Answering",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3297280.3297358",
+    "title": "Hybrid molecule-based information retrieval",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3297662.3365823",
+    "title": "Measurement-Based Cost Calculation Method Focusing on CPU Architecture for Database Query Optimization",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3298689.3346956",
+    "title": "Bandit algorithms in recommender systems",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3299869.3300104",
+    "title": "Deep Query Optimization",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3308560.3320091",
+    "title": "Tutorial: Sequence-Aware Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3324884.3416612",
+    "title": "Defect prediction guided search-based software testing",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3331184.3331415",
+    "title": "Event Information Retrieval from Text",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3335484.3335499",
+    "title": "Multi-join Query in Database Based on Genetic and Ant Colony Algorithm Optimization",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3338533.3372212",
+    "title": "Multimedia Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3347861",
+    "title": "Turbocharging database query processing and testing",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3350755.3400215",
+    "title": "A Closer Look at Quantum Distributed Consensus",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3352411.3352412",
+    "title": "Software Defect Prediction Based on Ensemble Learning",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3366424.3383111",
+    "title": "Learning Graph Neural Networks with Deep Graph Library",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3368926.3369711",
+    "title": "Unsupervised methods for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1145/3377811.3380389",
+    "title": "Software visualization and deep transfer learning for effective software defect prediction",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3377813.3381367",
+    "title": "Assessing practitioner beliefs about software defect prediction",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3383313.3412225",
+    "title": "Causal Inference for Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3387940.3391463",
+    "title": "Deep Learning for Software Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3394486.3403049",
+    "title": "Graph Structure Learning for Robust Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3394486.3403076",
+    "title": "Towards Deeper Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3394486.3406463",
+    "title": "Advances in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3394486.3406712",
+    "title": "Scalable Graph Neural Networks with Deep Graph Library",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3397271.3401092",
+    "title": "Streaming Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3397271.3401180",
+    "title": "Towards Question-based Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3398682.3399159",
+    "title": "Graph Neural Networks for Graph Search",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3404835.3462798",
+    "title": "The Information Retrieval Anthology",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3405962.3405969",
+    "title": "Incremental Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3407190",
+    "title": "Recommender Systems Leveraging Multimedia Content",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3409256.3409830",
+    "title": "Towards Memorable Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3416506.3423576",
+    "title": "Statistical machine translation outperforms neural machine translation in software engineering: why and how",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3416508.3417114",
+    "title": "Software defect prediction using tree-based ensembles",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3428279",
+    "title": "Finding bugs in database systems via query partitioning",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1145/3430984.3431061",
+    "title": "Learning-based Declarative Query Optimization",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3437963.3441663",
+    "title": "Scalable Graph Neural Networks with Deep Graph Library",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3437963.3441673",
+    "title": "Graph Mining with Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3442381.3449952",
+    "title": "Graph Structure Estimation Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3447548.3467256",
+    "title": "Scaling Up Graph Neural Networks Via Graph Coarsening",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3447548.3467298",
+    "title": "Preference Amplification in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3448016.3452834",
+    "title": "PigPaxos: Devouring the Communication Bottlenecks in Distributed Consensus",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3454127.3456579",
+    "title": "Towards a Flexible Relational Database Query System",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3459637.3482392",
+    "title": "Signed Bipartite Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3460120.3484565",
+    "title": "Locally Private Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3460231.3474601",
+    "title": "Exploration in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3465084.3467914",
+    "title": "Reaching Consensus for Asynchronous Distributed Key Generation",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3465084.3467947",
+    "title": "Brief Announcement: What's Live? Understanding Distributed Consensus",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3465998.3466006",
+    "title": "Resource-Efficient Database Query Processing on FPGAs",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3474198.3478215",
+    "title": "Software Defect Prediction Method based on Hybrid Sampling",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3476415.3476417",
+    "title": "The information retrieval anthology 2021",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3485447.3512187",
+    "title": "Polarized Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3485447.3512193",
+    "title": "Inflation Improves Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3487757.3490921",
+    "title": "Designing Hybrid Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3488560.3501396",
+    "title": "Graph Neural Networks for Recommender System",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3490354.3494387",
+    "title": "Visual time series forecasting",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3490486.3538354",
+    "title": "Recommender Systems meet Mechanism Design",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3498366.3505798",
+    "title": "Information Quality in Information Interaction and Retrieval",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3498366.3505841",
+    "title": "Psychology-informed Recommender Systems: A Human-Centric Perspective on Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3502733",
+    "title": "Constant Time Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3503161.3548111",
+    "title": "Difference Residual Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3510374.3510379",
+    "title": "MetaLearning with Graph Neural Networks",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3511808.3557356",
+    "title": "Imbalanced Graph Classification via Graph-of-Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3511808.3557467",
+    "title": "Taxonomy-Enhanced Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3514105.3514120",
+    "title": "Fairness Metrics for Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3514221.3520257",
+    "title": "Applicability of Quantum Computing on Database Query Optimization",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3523227.3547375",
+    "title": "Psychology-informed Recommender Systems Tutorial",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3527546.3527576",
+    "title": "Proactive information retrieval",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1145/3534678.3539111",
+    "title": "Dynamic Graph Segmentation for Deep Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3534678.3539343",
+    "title": "Motif Prediction with Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3539618.3591871",
+    "title": "Generative Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3539618.3591884",
+    "title": "Towards Explainable Conversational Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3539618.3594249",
+    "title": "Explainable Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3542700.3542702",
+    "title": "Making Learned Query Optimization Practical",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3543507.3583384",
+    "title": "Algorithmic Vibe in Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3543507.3583419",
+    "title": "Graph Neural Networks without Propagation",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3543895.3543924",
+    "title": "Stratifying large software files to improve prediction performance in software defect prediction",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3544109.3544387",
+    "title": "Research on query optimization algorithm of multi database system based on Distributed Database",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3555228.3555269",
+    "title": "Understanding Thresholds of Software Features for Defect Prediction",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3565472.3595617",
+    "title": "Sustainability-oriented Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3566097.3568345",
+    "title": "Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3568562.3568648",
+    "title": "Query-based Performance Comparison of Graph Database and Relational Database",
+    "type": "proceedings-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1145/3573128.3609340",
+    "title": "Genetic Generative Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3580305.3599177",
+    "title": "Graph Neural Networks in TensorFlow",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3580305.3599275",
+    "title": "Clenshaw Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3583780.3615092",
+    "title": "Towards Fair Graph Neural Networks via Graph Counterfactual",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3589250.3596148",
+    "title": "User-Assisted Code Query Optimization",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3589334.3645567",
+    "title": "Query Optimization for Ontology-Mediated Query Answering",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3594315.3594371",
+    "title": "Software Defect Prediction using Multi-scale Structural Information",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3597926.3598044",
+    "title": "Testing Graph Database Engines via Query Partitioning",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3616855.3635806",
+    "title": "NeuralReconciler for Hierarchical Time Series Forecasting",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3616901.3616929",
+    "title": "Software Technology Project Defect Prediction Based on AI",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1145/3626772.3657995",
+    "title": "Representation Learning and Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3626772.3661380",
+    "title": "Robust Information Retrieval",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3627673.3679617",
+    "title": "Watermarking Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3627826",
+    "title": "Trustworthy Recommender Systems",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3631700.3664915",
+    "title": "Balanced Explanations in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3640457.3687093",
+    "title": "Economics of Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3640457.3688020",
+    "title": "Fairness Explanations in Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3643035",
+    "title": "Domain Generalization in Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3651607",
+    "title": "Query Optimization by Quantifier Elimination",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3663976.3664241",
+    "title": "Multivariate Time Series Forecasting: A Review",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3675888.3676109",
+    "title": "Language Agnostic Neural Machine Translation",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3687302",
+    "title": "Topological Characterization of Consensus in Distributed Systems",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3701268.3701286",
+    "title": "Machine Translation: Early Criticisms Revisited",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1145/3703323.3704283",
+    "title": "Distributed Graph Neural Networks",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1155/2020/8859452",
+    "title": "Mixed-Level Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.1155/2021/5935958",
+    "title": "Sublemma‐Based Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1155/2021/6118113",
+    "title": "Research on Query Optimization of Classic Art Database Based on Artificial Intelligence and Edge Computing",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1155/2022/4314734",
+    "title": "Blockchain Consensus Mechanism for Distributed Energy Transactions",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1155/2022/9121636",
+    "title": "The Relationship between Machine Translation and Human Translation under the Influence of Artificial Intelligence Machine Translation",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1155/2023/9898413",
+    "title": "Retracted: The Relationship between Machine Translation and Human Translation under the Influence of Artificial Intelligence Machine Translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1162/tacl_a_00691",
+    "title": "Segmentation-Free Streaming Machine Translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1162/tacl_a_00711",
+    "title": "Conformalizing Machine Translation Evaluation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1162/tacl_a_00714",
+    "title": "Predicting Human Translation Difficulty with Neural Machine Translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1177/0142331218785673",
+    "title": "Distributed resilient consensus: a non-parametric approach",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1177/0309133318770972",
+    "title": "Information retrieval in physical geography",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.12677/ml.2024.1210897",
+    "title": "Effect of Machine Translation on Human Translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.12677/ml.2024.125381",
+    "title": "The Auxiliary Role of Machine Translation in Russian Translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.12677/sea.2023.126091",
+    "title": "A Neighborhood Synthesis Software Defect Prediction Oversampling Method",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1365/s40702-018-00457-7",
+    "title": "Blockchain = Distributed Ledger + Consensus",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1371/journal.pone.0247444",
+    "title": "Attention based GRU-LSTM for software defect prediction",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.1371/journal.pone.0306291",
+    "title": "The analysis of the internet of things database query and optimization using deep learning network model",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.14778/3229863.3229878",
+    "title": "Forecasting big time series",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.14778/3503585.3503600",
+    "title": "Database workload characterization with query plan encoders",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.14778/3598581.3598599",
+    "title": "Seiden: Revisiting Query Processing in Video Database Systems",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.14778/3611540.3611544",
+    "title": "AutoSteer: Learned Query Optimization for Any SQL Database",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.14778/3611540.3611607",
+    "title": "AQUA: Automatic Collaborative Query Processing in Analytical Database",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.14778/3685800.3685846",
+    "title": "Spatial Query Optimization With Learning",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.1515/geo-2022-0554",
+    "title": "Query optimization-oriented lateral expansion method of distributed geological borehole database",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.1515/jisys-2018-0016",
+    "title": "MTIL2017: Machine Translation Using Recurrent Neural Network on Statistical Machine Translation",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1556/2062.2022.00576",
+    "title": "Neural machine translation for Hungarian",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.1561/1500000065",
+    "title": "Information Retrieval: The Early Years",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.1561/1500000090",
+    "title": "Psychology-informed Recommender Systems",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.15755/jfs.2018..46.373",
+    "title": "Metaphor, Metonymy, and Machine Translation",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.1587/transinf.2022edp7136",
+    "title": "Time Series Forecasting Based on Convolution Transformer",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.17485/ijst/2018/v11i18/122267",
+    "title": "Analysis of Query Optimization Components in Distributed Database",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.21071/hikma.v23i3.16989",
+    "title": "Machine Translation and Tourism Discourse",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.2118/214769-ms",
+    "title": "Multiple Production Time Series Forecasting Using Deepar and Probabilistic Forecasting",
+    "type": "proceedings-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.2139/ssrn.3508639",
+    "title": "Analysing the Adaptability of Software Defect Prediction in Small Software Firms",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.2196/18035",
+    "title": "Health Recommender Systems: Systematic Review",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.23919/acc.2018.8430883",
+    "title": "On Consensus-Disagreement Tradeoff in Distributed Optimization",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.23919/acc.2018.8431898",
+    "title": "Distributed Dynamic Average Consensus in Asymmetric Networks",
+    "type": "proceedings-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.23919/acc.2019.8815134",
+    "title": "Distributed Average Consensus over Random Networks",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.23919/ccc52363.2021.9550372",
+    "title": "Quantum Graph Convolutional Neural Networks",
+    "type": "proceedings-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.23919/ecc64448.2024.10590959",
+    "title": "Distributed Average Consensus with Beep Communication",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.23919/eecsi50503.2020.9251874",
+    "title": "Software Defect Prediction Using Neural Network Based SMOTE",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.23919/fusion59988.2024.10706299",
+    "title": "Consensus-based distributed streaming coupled tensor factorization",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.23919/icact48636.2020.9061465",
+    "title": "Dynamic Weighted Hybrid Recommender Systems",
+    "type": "proceedings-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.23919/ifipnetworking62109.2024.10619905",
+    "title": "Distributed Consensus Through Network Support",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.23919/indiacom61295.2024.10498707",
+    "title": "Software Defect Prediction using Machine Learning",
+    "type": "proceedings-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.23919/mipro.2019.8756806",
+    "title": "A clustering model for time-series forecasting",
+    "type": "proceedings-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.23939/ictee2022.02.058",
+    "title": "METHOD OF ACHIEVING CONSENSUS IN DISTRIBUTED SERVICE",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.23939/sisn2024.15.065",
+    "title": "Enhancing Database Query Performance: Analysis of Indexing Techniques",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.24090/tids.v1i1.12192",
+    "title": "Naive Bayes Classification for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.24195/2616-5317-2020-30-4",
+    "title": "MODELS OF TRANSLATION EQUIVALENCE IN MACHINE TRANSLATION: PRAGMATIC ASPECT",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.24195/2616-5317-2020-30-7",
+    "title": "POSTEDITING IN MACHINE TRANSLATION",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.24195/2616-5317-2021-33-22",
+    "title": "MACHINE TRANSLATION, MACHINE TRANSLATION SYSTEMS AND THEIR SPECIFICATIONS",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.2478/acss-2021-0008",
+    "title": "Time Series Smoothing Improving Forecasting",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.2478/fcds-2023-0009",
+    "title": "Content-Based Recommender Systems Taxonomy",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.26102/2310-6018/2019.27.4.039",
+    "title": "FORECASTING TIME SERIES USING EVENT BINDING",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.31686/ijier.vol9.iss8.3239",
+    "title": "Time-series forecasting models",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.3169/itej.72.668",
+    "title": "5. Multimodal Machine Translation",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.3233/idt-240224",
+    "title": "Regressor cascading for time series forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3233/jcm-226961",
+    "title": "Mathematical formula information retrieval system",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.32604/cmc.2023.032454",
+    "title": "Query Optimization Framework for Graph Database in Cloud Dew Environment",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.32604/cmc.2023.045522",
+    "title": "Software Defect Prediction Method Based on Stable Learning",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.32604/csse.2023.029689",
+    "title": "Software Defect Prediction Based Ensemble Approach",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.32604/iasc.2022.020362",
+    "title": "Machine Learning Empowered Software Defect Prediction System",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.32628/cseit2390321",
+    "title": "Visibility Analysis and Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3389/fdata.2024.1376023",
+    "title": "Unilateral boundary time series forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/a13080176",
+    "title": "Towards Cognitive Recommender Systems",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.3390/analytics2010011",
+    "title": "Smart Multimedia Information Retrieval",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3390/app112110335",
+    "title": "Wind Power Forecasting with Deep Learning Networks: Time-Series Forecasting",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.3390/app131810466",
+    "title": "Improving Software Defect Prediction in Noisy Imbalanced Datasets",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3390/app14020846",
+    "title": "Query Optimization in Distributed Database Based on Improved Artificial Bee Colony Algorithm",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/app14156848",
+    "title": "Enhancement of English-Bengali Machine Translation Leveraging Back-Translation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/bdcc7020114",
+    "title": "Twi Machine Translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3390/e24050657",
+    "title": "Neural Networks for Financial Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.3390/e26010092",
+    "title": "Robust Multi-Dimensional Time Series Forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/e26030244",
+    "title": "Deceptive Information Retrieval",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/en15030773",
+    "title": "Time Series Forecasting for Energy Consumption",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.3390/math11112484",
+    "title": "Reduction of Neural Machine Translation Failures by Incorporating Statistical Machine Translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3390/math11112524",
+    "title": "Software Defect Prediction with Bayesian Approaches",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.3390/math12152336",
+    "title": "Time Series Forecasting with Many Predictors",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3390/math12193102",
+    "title": "Learned Query Optimization by Constraint-Based Query Plan Augmentation",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.35940/ijitee.g9993.0611722",
+    "title": "Software Defect Prediction: State of the Art Survey",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.37697/eskiyeni.1468068",
+    "title": "Machine Translation-Friendly Language for Improved Machine Translation Output in Academic Writing",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.3934/math.2024459",
+    "title": "EMDFormer model for time series forecasting",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.4018/ijdsst.2020070105",
+    "title": "Nonlinear Geometric Framework for Software Defect Prediction",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.4018/ijdwm.2020070110",
+    "title": "Recommender Systems Using Collaborative Tagging",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.4018/ijiit.2021040102",
+    "title": "Evaluating Recommender Systems",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.4018/ijncr.2019010101",
+    "title": "Clustering and Query Optimization in Fuzzy Object-Oriented Database",
+    "type": "journal-article",
+    "year": 2019
+  },
+  {
+    "doi": "10.4018/ijtd.2018010101",
+    "title": "Information Retrieval System",
+    "type": "journal-article",
+    "year": 2018
+  },
+  {
+    "doi": "10.4271/2022-01-0044",
+    "title": "Information Retrieval for Aviation Applications",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.46632/daai/2/1/1",
+    "title": "A Study On Software Engineering Defect Prediction",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.46632/daai/3/2/7",
+    "title": "Software Defect Prediction Using Machine Learning Techniques",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.48077/scihor11.2023.166",
+    "title": "Forecasting husbandry development using time series",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.51483/ijaiml.2.1.2022.71-74",
+    "title": "Intelligent Information Retrieval System",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.5406/21521123.61.4.03",
+    "title": "Algorithmic Recommender Systems",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.56294/mr202338",
+    "title": "Metaverse and translation studies: analysis of machine translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.5687/iscie.34.58",
+    "title": "Consensus-based Approach to Distributed Scheduling Problem",
+    "type": "journal-article",
+    "year": 2021
+  },
+  {
+    "doi": "10.5715/jnlp.27.975",
+    "title": "Translation and Machine Translation",
+    "type": "journal-article",
+    "year": 2020
+  },
+  {
+    "doi": "10.5715/jnlp.29.925",
+    "title": "A Survey of Machine Translation Technologies for Machine Translation on Patent Documents",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.5715/jnlp.30.1245",
+    "title": "Subset Retrieval Nearest Neighbor Machine Translation",
+    "type": "journal-article",
+    "year": 2023
+  },
+  {
+    "doi": "10.61186/jist.40851.12.45.20",
+    "title": "Optimization of Query Processing in Versatile Database Using Ant Colony Algorithm",
+    "type": "journal-article",
+    "year": 2024
+  },
+  {
+    "doi": "10.70413/ejar-v02-i05-s1965",
+    "title": "FUNCTIONS OF RECOMMENDER SYSTEMS",
+    "type": "journal-article",
+    "year": 2022
+  },
+  {
+    "doi": "10.7717/peerj-cs.901",
+    "title": "Evaluating graph neural networks under graph sampling scenarios",
+    "type": "journal-article",
+    "year": 2022
+  }
+]
